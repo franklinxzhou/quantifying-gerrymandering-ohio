@@ -1,0 +1,7 @@
+/.venv/
+/outputs/
+/data/raw/
+/data/derived/
+/data/rebuilt/
+__pycache__/
+.DS_Store

@@ -1,0 +1,19 @@
+{
+  "aggregated_atoms": 9025,
+  "census_block_rows": 276428,
+  "cross_place_pop20": 6846672,
+  "graph_nodes": 7928,
+  "n_cross_places": 407,
+  "n_geometry_nested_places": 488,
+  "n_incorporated_places": 925,
+  "n_nested_places": 518,
+  "n_nested_places_with_population": 518,
+  "n_population_promoted_places": 30,
+  "n_townships": 1314,
+  "nested_place_pop20": 823747,
+  "nesting_mode": "population_effective",
+  "promoted_place_pop20": 157031,
+  "statewide_pop20": 11799448,
+  "township_pop20": 5845764,
+  "unassigned_township_pop20": 5953684
+}

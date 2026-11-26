@@ -1,0 +1,2240 @@
+geography,geoid,name,classfp,lsad,status,parent_township_geoid,nearest_township_geoid,outside_nearest_township_area_ratio,geometric_status,nesting_basis
+place,3900142,Aberdeen,C1,47,nested,3901536834,3901536834,0.0,nested,geometry
+place,3900198,Ada,C1,47,nested,3906543162,3906543162,0.0,nested,geometry
+place,3900380,Adamsville,C1,47,nested,3911969932,3911969932,0.0,nested,geometry
+place,3900436,Addyston,C1,47,nested,3906149364,3906149364,0.0,nested,geometry
+place,3900450,Adelphi,C1,47,nested,3914116630,3914116630,0.0,nested,geometry
+place,3900464,Adena,C1,47,cross,,3908172767,0.257208643153212,cross,non_nested
+place,3901000,Akron,C2,25,cross,,3915319036,0.9999999999999958,cross,non_nested
+place,3901042,Albany,C1,47,cross,,3900942420,0.08659957215973764,cross,non_nested
+place,3901154,Alexandria,C1,47,nested,3908969456,3908969456,0.0,nested,geometry
+place,3901210,Alger,C1,47,nested,3906547712,3906547712,0.0,nested,geometry
+place,3901420,Alliance,C6,25,cross,,3909972740,0.9914304812892853,cross,non_nested
+place,3901630,Amanda,C1,47,nested,3904501637,3904501637,0.0,nested,geometry
+place,3901672,Amberley,C2,47,cross,,,1.0,cross,non_nested
+place,3901784,Amesville,C1,47,nested,3900901770,3900901770,0.0,nested,geometry
+place,3901798,Amherst,C2,25,cross,,3909301812,0.999999999999999,cross,non_nested
+place,3901938,Amsterdam,C1,47,nested,3908174122,3908174122,0.0,nested,geometry
+place,3902050,Andover,C1,47,nested,3900702064,3900702064,0.0,nested,geometry
+place,3902092,Anna,C1,47,cross,,3914922050,0.4616588295486628,cross,non_nested
+place,3902120,Ansonia,C1,47,nested,3903709414,3903709414,0.0,nested,geometry
+place,3902148,Antioch,C1,47,nested,3911161952,3911161952,0.0,nested,geometry
+place,3902204,Antwerp,C1,47,nested,3912512308,3912512308,0.0,nested,geometry
+place,3902232,Apple Creek,C1,47,nested,3916924136,3916924136,0.0,nested,geometry
+place,3902274,Aquilla,C1,47,nested,3905515168,3905515168,0.0,nested,geometry
+place,3902316,Arcadia,C1,47,nested,3906381284,3906381284,0.0,nested,geometry
+place,3902330,Arcanum,C1,47,nested,3903777980,3903777980,0.0,nested,geometry
+place,3902344,Archbold,C1,47,nested,3905129876,3905129876,0.0,nested,geometry
+place,3902400,Arlington,C5,47,cross,,3906346438,0.9999999999999999,cross,non_nested
+place,3902428,Arlington Heights,C2,47,cross,,,1.0,cross,non_nested
+place,3902568,Ashland,C2,25,cross,,3900551688,0.9999999999999997,cross,non_nested
+place,3902582,Ashley,C2,47,cross,,3904159262,0.9999999999999999,cross,non_nested
+place,3902638,Ashtabula,C1,25,cross,,3900702652,0.19552073222940192,cross,non_nested
+place,3902680,Ashville,C1,47,nested,3912933978,3912933978,0.0,nested,geometry
+place,3902722,Athalia,C1,47,nested,3908768280,3908768280,0.0,nested,geometry
+place,3902736,Athens,C1,25,cross,,3900902750,0.10516968025207052,cross,non_nested
+place,3902820,Attica,C1,47,nested,3914779674,3914779674,0.0,nested,geometry
+place,3903086,Aurora,C2,25,cross,,,1.0,cross,non_nested
+place,3903352,Avon,C2,25,cross,,,1.0,cross,non_nested
+place,3903464,Avon Lake,C2,25,cross,,,1.0,cross,non_nested
+place,3903562,Bailey Lakes,C1,47,nested,3900515672,3900515672,0.0,nested,geometry
+place,3903604,Bainbridge,C1,47,nested,3914161308,3914161308,0.0,nested,geometry
+place,3903646,Bairdstown,C1,47,nested,3917307020,3917307020,0.0,nested,geometry
+place,3903744,Baltic,C1,47,cross,,3915709988,0.4898911983617105,cross,non_nested
+place,3903758,Baltimore,C1,47,cross,,3904543120,0.0059817344259651345,cross,non_nested
+place,3903828,Barberton,C2,25,cross,,,1.0,cross,non_nested
+place,3903926,Barnesville,C1,47,nested,3901380864,3901380864,0.0,nested,geometry
+place,3903940,Barnhill,C1,47,nested,3915731066,3915731066,0.0,nested,geometry
+place,3904150,Batavia,C1,47,nested,3902504157,3902504157,0.0,nested,geometry
+place,3904192,Batesville,C1,47,nested,3912104682,3912104682,0.0,nested,geometry
+place,3904402,Bay View,C1,47,nested,3904347572,3904347572,0.0,nested,geometry
+place,3904416,Bay Village,C2,25,cross,,,1.0,cross,non_nested
+place,3904458,Beach City,C1,47,nested,3915175208,3915175208,0.0,nested,geometry
+place,3904500,Beachwood,C2,25,cross,,,1.0,cross,non_nested
+place,3904542,Beallsville,C1,47,nested,3911175686,3911175686,0.0,nested,geometry
+place,3904696,Beaver,C1,47,cross,,3913104710,0.30986448801214345,cross,non_nested
+place,3904720,Beavercreek,C1,25,nested,3905704724,3905704724,8.926723956184903e-05,cross,population
+place,3904752,Beaverdam,C1,47,nested,3900366614,3900366614,0.0,nested,geometry
+place,3904878,Bedford,C2,25,cross,,,1.0,cross,non_nested
+place,3904920,Bedford Heights,C2,25,cross,,,1.0,cross,non_nested
+place,3905074,Bellaire,C1,47,nested,3901364962,3901364962,0.0,nested,geometry
+place,3905102,Bellbrook,C5,25,cross,,3905775201,0.9999999999999984,cross,non_nested
+place,3905116,Belle Center,C1,47,nested,3909166740,3909166740,0.0,nested,geometry
+place,3905130,Bellefontaine,C1,25,cross,,3909141286,0.4837088079893662,cross,non_nested
+place,3905158,Belle Valley,C1,47,nested,3912156028,3912156028,0.0,nested,geometry
+place,3905228,Bellevue,C2,25,cross,,3914776632,0.9999999999999999,cross,non_nested
+place,3905284,Bellville,C1,47,cross,,3913938794,0.33126495082937935,cross,non_nested
+place,3905312,Belmont,C1,47,nested,3901330968,3901330968,0.0,nested,geometry
+place,3905396,Belmore,C1,47,nested,3913779450,3913779450,0.0,nested,geometry
+place,3905410,Beloit,C1,47,nested,3909972740,3909972740,0.0,nested,geometry
+place,3905424,Belpre,C2,25,cross,,3916705438,0.9999999999999986,cross,non_nested
+place,3905550,Bentleyville,C2,47,cross,,3905503590,0.9999999999999999,cross,non_nested
+place,3905662,Benton Ridge,C1,47,nested,3906306838,3906306838,0.0,nested,geometry
+place,3905690,Berea,C2,25,cross,,,1.0,cross,non_nested
+place,3905718,Bergholz,C1,47,nested,3908174122,3908174122,0.0,nested,geometry
+place,3905732,Berkey,C1,47,nested,3909566516,3909566516,0.0,nested,geometry
+place,3905900,Berlin Heights,C1,47,nested,3904305802,3904305802,0.0,nested,geometry
+place,3906068,Bethel,C1,47,nested,3902576155,3902576155,0.0,nested,geometry
+place,3906138,Bethesda,C1,47,nested,3901330968,3901330968,0.0,nested,geometry
+place,3906194,Bettsville,C1,47,nested,3914743316,3914743316,0.0,nested,geometry
+place,3906222,Beverly,C1,47,nested,3916781774,3916781774,0.0,nested,geometry
+place,3906278,Bexley,C2,25,cross,,,1.0,cross,non_nested
+place,3906810,Blakeslee,C1,47,nested,3917127530,3917127530,0.0,nested,geometry
+place,3906908,Blanchester,C1,47,nested,3902747670,3902747670,0.00691641181290069,cross,population
+place,3907062,Bloomdale,C1,47,nested,3917307020,3917307020,0.0,nested,geometry
+place,3907188,Bloomingburg,C1,47,nested,3904759486,3904759486,0.011309222225005824,cross,population
+place,3907202,Bloomingdale,C1,47,nested,3908182180,3908182180,0.0,nested,geometry
+place,3907286,Bloomville,C1,47,nested,3914707006,3914707006,0.0,nested,geometry
+place,3907300,Blue Ash,C2,25,cross,,,1.0,cross,non_nested
+place,3907426,Bluffton,C1,47,cross,,3900366614,0.29306297257538216,cross,non_nested
+place,3907594,Bolivar,C1,47,nested,3915742182,3915742182,0.0,nested,geometry
+place,3907790,Boston Heights,C2,47,cross,,,1.0,cross,non_nested
+place,3907832,Botkins,C1,47,nested,3914922050,3914922050,0.0,nested,geometry
+place,3907916,Bowerston,C1,47,nested,3906751394,3906751394,0.0,nested,geometry
+place,3907930,Bowersville,C1,47,nested,3905738626,3905738626,0.0,nested,geometry
+place,3907972,Bowling Green,C2,25,cross,,,1.0,cross,non_nested
+place,3908084,Bradford,C1,47,cross,,3910954138,0.4170746456023097,cross,non_nested
+place,3908112,Bradner,C1,47,nested,3917351744,3917351744,0.0,nested,geometry
+place,3908336,Bratenahl,C2,47,cross,,,1.0,cross,non_nested
+place,3908364,Brecksville,C2,25,cross,,3915366544,0.9999999999999994,cross,non_nested
+place,3908392,Bremen,C1,47,nested,3904569120,3904569120,0.0,nested,geometry
+place,3908504,Brewster,C1,47,nested,3915175208,3915175208,0.0,nested,geometry
+place,3908532,Brice,C1,47,nested,3904977714,3904977714,0.0,nested,geometry
+place,3908560,Bridgeport,C1,47,nested,3901361378,3901361378,0.0,nested,geometry
+place,3909064,Broadview Heights,C2,25,cross,,3915366544,0.9999999999999987,cross,non_nested
+place,3909246,Brooklyn,C2,25,cross,,,1.0,cross,non_nested
+place,3909274,Brooklyn Heights,C2,47,cross,,,1.0,cross,non_nested
+place,3909288,Brook Park,C2,25,cross,,,1.0,cross,non_nested
+place,3909316,Brookside,C1,47,nested,3901361378,3901361378,0.0,nested,geometry
+place,3909358,Brookville,C1,25,cross,,3911315518,0.2621719117549948,cross,non_nested
+place,3909386,Broughton,C1,47,nested,3912537954,3912537954,0.0,nested,geometry
+place,3909680,Brunswick,C2,25,cross,,,1.0,cross,non_nested
+place,3909792,Bryan,C2,25,cross,,,1.0,cross,non_nested
+place,3909834,Buchtel,C1,47,cross,,3900986982,0.07834088960848264,cross,non_nested
+place,3909890,Buckeye Lake,C1,47,cross,,3908978400,0.07116908703767626,cross,non_nested
+place,3909974,Buckland,C1,47,nested,3901144618,3901144618,0.11942852137721427,cross,population
+place,3910030,Bucyrus,C2,25,cross,,,1.0,cross,non_nested
+place,3910254,Burbank,C1,47,nested,3916911276,3916911276,0.0,nested,geometry
+place,3910282,Burgoon,C1,47,nested,3914338052,3914338052,0.0,nested,geometry
+place,3910296,Burkettsville,C1,47,cross,,3910731430,0.2847476254580628,cross,non_nested
+place,3910436,Burton,C1,47,nested,3905510464,3905510464,0.0,nested,geometry
+place,3910632,Butler,C1,47,nested,3913986618,3913986618,0.0,nested,geometry
+place,3910674,Butlerville,C1,47,nested,3916533474,3916533474,0.0,nested,geometry
+place,3910716,Byesville,C1,47,nested,3905937786,3905937786,0.0,nested,geometry
+place,3910800,Cadiz,C1,47,nested,3906710814,3906710814,0.0,nested,geometry
+place,3910884,Cairo,C1,47,nested,3900351282,3900351282,0.0,nested,geometry
+place,3910940,Caldwell,C1,47,cross,,3912158310,0.06157125927761943,cross,non_nested
+place,3910954,Caledonia,C1,47,nested,3910115196,3910115196,0.0,nested,geometry
+place,3910996,Cambridge,C1,25,cross,,3905911003,0.06680040312086095,cross,non_nested
+place,3911024,Camden,C1,47,nested,3913572964,3913572964,0.0,nested,geometry
+place,3911066,Campbell,C5,25,cross,,3909916476,0.9999999999999997,cross,non_nested
+place,3911304,Canal Fulton,C1,25,nested,3915142168,3915142168,0.0,nested,geometry
+place,3911332,Canal Winchester,C1,25,cross,,3904946410,0.25731585838461335,cross,non_nested
+place,3911360,Canfield,C1,25,nested,3909911374,3909911374,0.0,nested,geometry
+place,3912000,Canton,C2,25,cross,,,1.0,cross,non_nested
+place,3912084,Cardington,C1,47,cross,,3911712098,0.0757260817247446,cross,non_nested
+place,3912112,Carey,C1,47,nested,3917519246,3917519246,0.0,nested,geometry
+place,3912168,Carlisle,C1,25,cross,,3916528490,0.15932141261804622,cross,non_nested
+place,3912252,Carroll,C1,47,cross,,3904532060,0.3945060553031701,cross,non_nested
+place,3912280,Carrollton,C1,47,nested,3901912896,3901912896,0.01496135046770561,cross,population
+place,3912462,Casstown,C1,47,nested,3910944968,3910944968,0.0,nested,geometry
+place,3912476,Castalia,C1,47,nested,3904347572,3904347572,0.0,nested,geometry
+place,3912504,Castine,C1,47,nested,3903710576,3903710576,0.0,nested,geometry
+place,3912560,Catawba,C1,47,nested,3902363226,3902363226,0.0,nested,geometry
+place,3912700,Cecil,C1,47,nested,3912519176,3912519176,0.0,nested,geometry
+place,3912784,Cedarville,C1,47,nested,3905712798,3905712798,0.0,nested,geometry
+place,3912868,Celina,C1,25,cross,,3910738724,0.046250600127006665,cross,non_nested
+place,3913036,Centerburg,C1,47,nested,3908335462,3908335462,0.0,nested,geometry
+place,3913169,Centerville (Thurman),C1,47,nested,3905365228,3905365228,0.0,nested,geometry
+place,3913190,Centerville,C1,25,cross,,3911381494,0.03822038440695908,cross,non_nested
+place,3913358,Chagrin Falls,C1,47,nested,3903513372,3903513372,0.0,nested,geometry
+place,3913554,Chardon,C2,25,cross,,,1.0,cross,non_nested
+place,3913694,Chatfield,C1,47,nested,3903313708,3903313708,0.0,nested,geometry
+place,3913778,Chauncey,C1,47,nested,3900922414,3900922414,0.0,nested,geometry
+place,3913904,Chesapeake,C1,47,nested,3908778372,3908778372,0.0,nested,geometry
+place,3913932,Cheshire,C1,47,nested,3905313946,3905313946,0.0,nested,geometry
+place,3914086,Chesterhill,C1,47,nested,3911547796,3911547796,0.0,nested,geometry
+place,3914114,Chesterville,C1,47,nested,3911714030,3911714030,0.0,nested,geometry
+place,3914128,Cheviot,C2,25,cross,,3906131752,0.9999999999999991,cross,non_nested
+place,3914156,Chickasaw,C1,47,nested,3910747782,3910747782,0.0,nested,geometry
+place,3914184,Chillicothe,C1,25,cross,,3914170898,0.004378679527222405,cross,non_nested
+place,3914226,Chilo,C1,47,nested,3902528224,3902528224,0.0,nested,geometry
+place,3914254,Chippewa Lake,C5,47,cross,,3910341174,0.9999999999999997,cross,non_nested
+place,3914296,Christiansburg,C1,47,nested,3902137702,3902137702,0.0,nested,geometry
+place,3915000,Cincinnati,C5,25,cross,,3906101980,0.9999999999999953,cross,non_nested
+place,3915070,Circleville,C2,25,cross,,3912981550,0.9999999999999994,cross,non_nested
+place,3915210,Clarington,C1,47,nested,3911169918,3911169918,0.0,nested,geometry
+place,3915336,Clarksburg,C1,47,nested,3914121224,3914121224,0.0,nested,geometry
+place,3915406,Clarksville,C1,47,nested,3902779772,3902779772,0.0,nested,geometry
+place,3915588,Clay Center,C1,47,nested,3912301322,3912301322,0.0,nested,geometry
+place,3915644,Clayton,C2,25,cross,,,1.0,cross,non_nested
+place,3916000,Cleveland,C2,25,cross,,,1.0,cross,non_nested
+place,3916014,Cleveland Heights,C2,25,cross,,,1.0,cross,non_nested
+place,3916028,Cleves,C1,47,nested,3906149364,3906149364,0.041313536262977985,cross,population
+place,3916056,Clifton,C1,47,cross,,3905749336,0.47576282182951707,cross,non_nested
+place,3916182,Clinton,C2,47,cross,,,1.0,cross,non_nested
+place,3916266,Cloverdale,C1,47,nested,3913762036,3913762036,0.0,nested,geometry
+place,3916308,Clyde,C5,25,cross,,3914387080,0.9999999999999999,cross,non_nested
+place,3916378,Coal Grove,C1,47,cross,,3908778974,0.005520189392446455,cross,non_nested
+place,3916434,Coalton,C1,47,nested,3907916336,3907916336,0.0,nested,geometry
+place,3916532,Coldwater,C1,47,nested,3910710604,3910710604,0.0,nested,geometry
+place,3916700,College Corner,C1,47,cross,,3913537590,0.4891155899276852,cross,non_nested
+place,3917036,Columbiana,C1,25,cross,,3902925998,0.14638480974415244,cross,non_nested
+place,3918000,Columbus,C6,25,cross,,3904158618,0.9965987632628287,cross,non_nested
+place,3918014,Columbus Grove,C1,47,nested,3913763380,3913763380,0.0,nested,geometry
+place,3918070,Commercial Point,C1,47,nested,3912970870,3912970870,0.0005827536023648486,cross,population
+place,3918266,Conesville,C1,47,nested,3903128252,3903128252,0.0,nested,geometry
+place,3918308,Congress,C1,47,nested,3916918322,3916918322,0.0,nested,geometry
+place,3918350,Conneaut,C2,25,cross,,,1.0,cross,non_nested
+place,3918504,Continental,C1,47,nested,3913751562,3913751562,0.0,nested,geometry
+place,3918546,Convoy,C1,47,nested,3916177756,3916177756,0.0,nested,geometry
+place,3918588,Coolville,C1,47,nested,3900977546,3900977546,0.0,nested,geometry
+place,3918770,Corning,C1,47,nested,3912751520,3912751520,0.0,nested,geometry
+place,3918812,Cortland,C5,25,cross,,3915504444,0.9999999999999987,cross,non_nested
+place,3918840,Corwin,C1,47,nested,3916582306,3916582306,0.0,nested,geometry
+place,3918868,Coshocton,C2,25,cross,,,1.0,cross,non_nested
+place,3919050,Covington,C1,47,nested,3910954138,3910954138,0.0,nested,geometry
+place,3919106,Craig Beach,C1,47,nested,3909950638,3909950638,0.0,nested,geometry
+place,3919330,Crestline,C6,47,cross,,3913970394,0.989419513456035,cross,non_nested
+place,3919344,Creston,C1,47,cross,,3916911276,0.08153515008989064,cross,non_nested
+place,3919400,Cridersville,C1,47,nested,3901122722,3901122722,0.0,nested,geometry
+place,3919456,Crooksville,C1,47,nested,3912733964,3912733964,0.0,nested,geometry
+place,3919554,Crown City,C1,47,nested,3905332760,3905332760,0.0,nested,geometry
+place,3919694,Cumberland,C1,47,nested,3905973986,3905973986,0.0,nested,geometry
+place,3919750,Custar,C1,47,nested,3917350680,3917350680,0.0,nested,geometry
+place,3919778,Cuyahoga Falls,C2,25,cross,,,1.0,cross,non_nested
+place,3919806,Cuyahoga Heights,C2,47,cross,,,1.0,cross,non_nested
+place,3919820,Cygnet,C1,47,nested,3917307020,3917307020,0.0,nested,geometry
+place,3919974,Dalton,C1,47,nested,3916975231,3916975231,0.0,nested,geometry
+place,3920114,Danville,C1,47,nested,3908378358,3908378358,0.0,nested,geometry
+place,3920212,Darbyville,C1,47,nested,3912953256,3912953256,0.0,nested,geometry
+place,3921000,Dayton,C5,25,cross,,,1.0,cross,non_nested
+place,3921266,Deer Park,C2,25,cross,,,1.0,cross,non_nested
+place,3921294,Deersville,C1,47,nested,3906728308,3906728308,0.0,nested,geometry
+place,3921308,Defiance,C1,25,cross,,3903921322,0.46010838093710454,cross,non_nested
+place,3921378,De Graff,C1,47,cross,,3909149378,0.3226943021640449,cross,non_nested
+place,3921434,Delaware,C1,25,cross,,3904121448,0.9146088385051572,cross,non_nested
+place,3921560,Dellroy,C1,47,nested,3901951324,3901951324,0.0,nested,geometry
+place,3921602,Delphos,C1,25,cross,,3900347656,0.40984776567919606,cross,non_nested
+place,3921616,Delta,C1,47,cross,,3905187024,0.25273949584905714,cross,non_nested
+place,3921714,Dennison,C1,47,cross,,3915750232,0.2948887501866267,cross,non_nested
+place,3921812,Deshler,C1,47,nested,3906904052,3906904052,0.0,nested,geometry
+place,3921910,Dexter City,C1,47,cross,,3912138766,0.6686822909538643,cross,non_nested
+place,3922022,Dillonvale,C1,47,cross,,3908152990,0.31479132493589623,cross,non_nested
+place,3922288,Donnelsville,C1,47,nested,3902306054,3902306054,0.0,nested,geometry
+place,3922456,Dover,C2,25,cross,,,1.0,cross,non_nested
+place,3922568,Doylestown,C1,47,nested,3916914240,3916914240,0.0,nested,geometry
+place,3922610,Dresden,C1,47,cross,,3911938752,0.17884717199182243,cross,non_nested
+place,3922694,Dublin,C1,25,cross,,3904981242,0.15557466331378253,cross,non_nested
+place,3922946,Dunkirk,C1,47,nested,3906506866,3906506866,0.0,nested,geometry
+place,3922974,Dupont,C1,47,nested,3913762036,3913762036,0.0,nested,geometry
+place,3923324,East Canton,C1,47,nested,3915158926,3915158926,0.0,nested,geometry
+place,3923380,East Cleveland,C2,25,cross,,,1.0,cross,non_nested
+place,3923618,Eastlake,C2,25,cross,,,1.0,cross,non_nested
+place,3923730,East Liverpool,C2,25,cross,,3902944226,0.9999999999999997,cross,non_nested
+place,3923940,East Palestine,C1,47,nested,3902978890,3902978890,0.0,nested,geometry
+place,3924052,East Sparta,C1,47,nested,3915162694,3915162694,0.0,nested,geometry
+place,3924234,Eaton,C2,25,cross,,,1.0,cross,non_nested
+place,3924486,Edgerton,C1,47,nested,3917169638,3917169638,0.0,nested,geometry
+place,3924598,Edison,C1,47,nested,3911730128,3911730128,0.0,nested,geometry
+place,3924640,Edon,C1,47,nested,3917127530,3917127530,0.0,nested,geometry
+place,3924766,Eldorado,C1,47,nested,3913551548,3913551548,0.0,nested,geometry
+place,3924794,Elgin,C1,47,nested,3916187136,3916187136,0.0,nested,geometry
+place,3924808,Elida,C1,47,nested,3900301756,3900301756,0.0,nested,geometry
+place,3925144,Elmore,C1,47,nested,3912333726,3912333726,0.00023863264081625015,cross,population
+place,3925186,Elmwood Place,C2,47,cross,,,1.0,cross,non_nested
+place,3925256,Elyria,C2,25,cross,,3909301812,0.9999999999999983,cross,non_nested
+place,3925368,Empire,C1,47,nested,3908140866,3908140866,0.0,nested,geometry
+place,3925396,Englewood,C5,25,cross,,,1.0,cross,non_nested
+place,3925452,Enon,C1,47,nested,3902346788,3902346788,0.0,nested,geometry
+place,3925704,Euclid,C2,25,cross,,,1.0,cross,non_nested
+place,3925802,Evendale,C2,47,cross,,,1.0,cross,non_nested
+place,3925914,Fairborn,C1,25,cross,,3905704220,0.09379587933997348,cross,non_nested
+place,3925942,Fairfax,C2,47,cross,,,1.0,cross,non_nested
+place,3925970,Fairfield,C5,25,cross,,,1.0,cross,non_nested
+place,3926166,Fairlawn,C2,25,cross,,,1.0,cross,non_nested
+place,3926306,Fairport Harbor,C1,47,nested,3908559430,3908559430,0.0,nested,geometry
+place,3926348,Fairview,C1,47,nested,3905959290,3905959290,0.01825706210596427,cross,population
+place,3926446,Fairview Park,C2,25,cross,,,1.0,cross,non_nested
+place,3926656,Farmersville,C1,47,nested,3911337912,3911337912,0.0,nested,geometry
+place,3926768,Fayette,C1,47,nested,3905130940,3905130940,0.0,nested,geometry
+place,3926796,Fayetteville,C1,47,nested,3901561770,3901561770,0.0,nested,geometry
+place,3926880,Felicity,C1,47,nested,3902528224,3902528224,0.0,nested,geometry
+place,3927048,Findlay,C2,25,cross,,3906323086,0.9999999999999987,cross,non_nested
+place,3927412,Fletcher,C2,47,cross,,,1.0,cross,non_nested
+place,3927538,Florida,C1,47,nested,3906927342,3906927342,0.0,nested,geometry
+place,3927552,Flushing,C1,47,nested,3901327566,3901327566,0.0,nested,geometry
+place,3927636,Forest,C1,47,nested,3906537814,3906537814,0.0,nested,geometry
+place,3927706,Forest Park,C2,25,cross,,3906174121,0.9999999999999993,cross,non_nested
+place,3927818,Fort Jennings,C1,47,nested,3913738976,3913738976,0.0,nested,geometry
+place,3927832,Fort Loramie,C1,47,nested,3914946172,3914946172,0.0,nested,geometry
+place,3927902,Fort Recovery,C1,47,cross,,3910730058,0.45179409180960634,cross,non_nested
+place,3928014,Fostoria,C6,25,cross,,3906381284,0.7681198609384485,cross,non_nested
+place,3928182,Frankfort,C1,47,nested,3914118238,3914118238,0.0,nested,geometry
+place,3928476,Franklin,C1,25,nested,3916528490,3916528490,0.0,nested,geometry
+place,3928574,Frazeysburg,C1,47,nested,3911937926,3911937926,0.0,nested,geometry
+place,3928616,Fredericksburg,C1,47,nested,3916970198,3916970198,0.0,nested,geometry
+place,3928658,Fredericktown,C2,47,cross,,,1.0,cross,non_nested
+place,3928798,Freeport,C1,47,nested,3906728812,3906728812,0.0,nested,geometry
+place,3928826,Fremont,C2,25,cross,,,1.0,cross,non_nested
+place,3929050,Fulton,C1,47,nested,3911743680,3911743680,0.0,nested,geometry
+place,3929064,Fultonham,C1,47,nested,3911955608,3911955608,0.0,nested,geometry
+place,3929106,Gahanna,C1,25,nested,3904950064,3904950064,0.0,nested,geometry
+place,3929148,Galena,C1,47,nested,3904105774,3904105774,0.0,nested,geometry
+place,3929162,Galion,C6,25,cross,,3903337744,0.9484434964905839,cross,non_nested
+place,3929204,Gallipolis,C1,47,nested,3905329218,3905329218,0.0,nested,geometry
+place,3929246,Gambier,C1,47,nested,3908316686,3908316686,0.0,nested,geometry
+place,3929288,Gann (Brinkhaven),C1,47,nested,3908378358,3908378358,0.0,nested,geometry
+place,3929428,Garfield Heights,C2,25,cross,,,1.0,cross,non_nested
+place,3929442,Garrettsville,C2,47,cross,,,1.0,cross,non_nested
+place,3929498,Gates Mills,C2,47,cross,,,1.0,cross,non_nested
+place,3929610,Geneva,C1,25,nested,3900729624,3900729624,0.0,nested,geometry
+place,3929652,Geneva-on-the-Lake,C1,47,nested,3900729624,3900729624,0.0,nested,geometry
+place,3929722,Genoa,C1,47,nested,3912315546,3912315546,0.0,nested,geometry
+place,3929778,Georgetown,C1,47,cross,,3901563212,0.0025093761759351907,cross,non_nested
+place,3929932,Germantown,C1,25,nested,3911329904,3911329904,0.0,nested,geometry
+place,3929974,Gettysburg,C1,47,nested,3903700254,3903700254,0.0,nested,geometry
+place,3930072,Gibsonburg,C1,47,nested,3914346592,3914346592,0.09210526940883804,cross,population
+place,3930114,Gilboa,C1,47,nested,3913706880,3913706880,0.0,nested,geometry
+place,3930198,Girard,C1,25,cross,,3915543344,0.134720599612217,cross,non_nested
+place,3930282,Glandorf,C1,47,nested,3913758996,3913758996,0.0,nested,geometry
+place,3930380,Glendale,C2,47,cross,,,1.0,cross,non_nested
+place,3930436,Glenford,C1,47,nested,3912736386,3912736386,0.0,nested,geometry
+place,3930506,Glenmont,C1,47,nested,3907566712,3907566712,0.0,nested,geometry
+place,3930632,Glenwillow,C2,47,cross,,,1.0,cross,non_nested
+place,3930660,Gloria Glens Park,C5,47,cross,,,1.0,cross,non_nested
+place,3930674,Glouster,C1,47,nested,3900977420,3900977420,0.0,nested,geometry
+place,3930702,Gnadenhutten,C1,47,cross,,3915715574,0.13719124176793698,cross,non_nested
+place,3930786,Golf Manor,C2,47,cross,,3906116882,0.9999999999999996,cross,non_nested
+place,3930912,Gordon,C1,47,nested,3903777980,3903777980,0.0,nested,geometry
+place,3931150,Grafton,C2,47,cross,,,1.0,cross,non_nested
+place,3931206,Grand Rapids,C1,47,nested,3917331220,3917331220,0.0,nested,geometry
+place,3931234,Grand River,C1,47,nested,3908559430,3908559430,0.0,nested,geometry
+place,3931304,Grandview Heights,C2,25,cross,,,1.0,cross,non_nested
+place,3931402,Granville,C1,47,nested,3908931416,3908931416,0.0,nested,geometry
+place,3931458,Gratiot,C1,47,cross,,3908936316,0.4091828117380152,cross,non_nested
+place,3931472,Gratis,C1,47,nested,3913531486,3913531486,0.0,nested,geometry
+place,3931542,Graysville,C1,47,nested,3911181480,3911181480,0.0,nested,geometry
+place,3931860,Green,C2,25,cross,,3915162988,0.9999999999999998,cross,non_nested
+place,3931948,Green Camp,C1,47,nested,3910131962,3910131962,0.0,nested,geometry
+place,3932088,Greenfield,C1,47,nested,3907146452,3907146452,0.061127826494331815,cross,population
+place,3932158,Greenhills,C2,47,cross,,3906174121,0.9999999999999999,cross,non_nested
+place,3932256,Green Springs,C5,47,cross,,,1.0,cross,non_nested
+place,3932340,Greenville,C1,25,nested,3903732354,3903732354,0.0,nested,geometry
+place,3932368,Greenwich,C2,47,cross,,,1.0,cross,non_nested
+place,3932592,Grove City,C1,25,cross,,3904937772,0.008306652751017314,cross,non_nested
+place,3932606,Groveport,C1,25,cross,,3904946410,0.0075216756079534266,cross,non_nested
+place,3932620,Grover Hill,C1,47,nested,3912542000,3912542000,0.0,nested,geometry
+place,3932956,Hamden,C1,47,nested,3916316210,3916316210,0.0,nested,geometry
+place,3932984,Hamersville,C1,47,nested,3901515224,3901515224,0.0,nested,geometry
+place,3933012,Hamilton,C5,25,cross,,3901768616,0.9999999999999999,cross,non_nested
+place,3933096,Hamler,C1,47,nested,3906947726,3906947726,0.0,nested,geometry
+place,3933194,Hanging Rock,C1,47,nested,3908733054,3908733054,0.0,nested,geometry
+place,3933292,Hanover,C1,47,cross,,3908933299,0.18394595763276808,cross,non_nested
+place,3933306,Hanoverton,C1,47,nested,3902933264,3902933264,0.0,nested,geometry
+place,3933376,Harbor View,C2,47,cross,,3909581438,0.9999999999999994,cross,non_nested
+place,3933656,Harpster,C1,47,nested,3917562904,3917562904,0.0,nested,geometry
+place,3933740,Harrisburg,C1,47,nested,3904963254,3904963254,0.042633670186414396,cross,population
+place,3933838,Harrison,C1,25,cross,,3906133852,0.2005485995929772,cross,non_nested
+place,3934090,Harrisville,C1,47,nested,3906772361,3906772361,0.0,nested,geometry
+place,3934118,Harrod,C1,47,nested,3900302988,3900302988,0.0,nested,geometry
+place,3934202,Hartford (Croton),C1,47,nested,3908934188,3908934188,0.0,nested,geometry
+place,3934328,Hartville,C1,47,nested,3915141314,3915141314,0.0,nested,geometry
+place,3934384,Harveysburg,C1,47,nested,3916548216,3916548216,0.0,nested,geometry
+place,3934412,Haskins,C1,47,nested,3917349812,3917349812,0.0,nested,geometry
+place,3934552,Haviland,C1,47,nested,3912507370,3912507370,0.0,nested,geometry
+place,3934636,Hayesville,C1,47,nested,3900579758,3900579758,0.0,nested,geometry
+place,3934748,Heath,C2,25,cross,,,1.0,cross,non_nested
+place,3934790,Hebron,C1,47,nested,3908978400,3908978400,0.0,nested,geometry
+place,3934860,Helena,C1,47,cross,,3914338052,0.3446555103674677,cross,non_nested
+place,3934888,Hemlock,C1,47,nested,3912770226,3912770226,0.0,nested,geometry
+place,3935098,Hicksville,C1,47,nested,3903935112,3903935112,0.0,nested,geometry
+place,3935168,Higginsport,C1,47,nested,3901542910,3901542910,0.0,nested,geometry
+place,3935210,Highland,C1,47,nested,3907126026,3907126026,0.0,nested,geometry
+place,3935252,Highland Heights,C2,25,cross,,,1.0,cross,non_nested
+place,3935255,Highland Hills,C2,47,cross,,,1.0,cross,non_nested
+place,3935476,Hilliard,C1,25,cross,,3904957344,0.21618571132787545,cross,non_nested
+place,3935532,Hills and Dales,C1,47,nested,3915138094,3915138094,0.0,nested,geometry
+place,3935560,Hillsboro,C1,25,nested,3907143190,3907143190,0.0,nested,geometry
+place,3935658,Hiram,C2,47,cross,,3913335672,0.9999999999999997,cross,non_nested
+place,3935854,Holgate,C1,47,cross,,3906963296,0.14869914322755187,cross,non_nested
+place,3935864,Holiday City,C1,47,cross,,3917138864,0.4890203223498364,cross,non_nested
+place,3935882,Holland,C1,47,nested,3909574123,3909574123,0.0,nested,geometry
+place,3935896,Hollansburg,C1,47,nested,3903733810,3903733810,0.0,nested,geometry
+place,3935924,Holloway,C1,47,nested,3901327566,3901327566,0.0,nested,geometry
+place,3935994,Holmesville,C1,47,nested,3907564584,3907564584,0.0,nested,geometry
+place,3936260,Hopedale,C1,47,nested,3906731766,3906731766,0.0,nested,geometry
+place,3936568,Hoytville,C1,47,nested,3917338164,3917338164,0.0,nested,geometry
+place,3936582,Hubbard,C1,25,nested,3915536596,3915536596,0.0,nested,geometry
+place,3936610,Huber Heights,C6,25,cross,,,1.0,cross,non_nested
+place,3936651,Hudson,C2,25,cross,,3913328392,0.9999999999999998,cross,non_nested
+place,3936918,Hunting Valley,C2,47,cross,,3905569232,0.9999999999999998,cross,non_nested
+place,3936988,Huntsville,C1,47,nested,3909145682,3909145682,0.0,nested,geometry
+place,3937016,Huron,C1,25,nested,3904337030,3904337030,0.0,nested,geometry
+place,3937240,Independence,C2,25,cross,,,1.0,cross,non_nested
+place,3937422,Irondale,C1,47,nested,3908170086,3908170086,0.0,nested,geometry
+place,3937464,Ironton,C1,25,cross,,3908778974,0.08612056849026861,cross,non_nested
+place,3937604,Ithaca,C1,47,nested,3903777980,3903777980,0.0,nested,geometry
+place,3937842,Jackson,C2,25,cross,,,1.0,cross,non_nested
+place,3938192,Jacksonburg,C1,47,nested,3901782082,3901782082,0.0,nested,geometry
+place,3938220,Jackson Center,C1,47,nested,3914938080,3914938080,0.0,nested,geometry
+place,3938304,Jacksonville,C1,47,nested,3900977420,3900977420,0.0,nested,geometry
+place,3938374,Jamestown,C1,47,nested,3905772473,3905772473,0.02108662047837606,cross,population
+place,3938500,Jefferson,C1,47,nested,3900738514,3900738514,0.0,nested,geometry
+place,3938920,Jeffersonville,C1,47,nested,3904738598,3904738598,0.0,nested,geometry
+place,3938948,Jenera,C1,47,nested,3906379408,3906379408,0.0,nested,geometry
+place,3939060,Jeromesville,C1,47,nested,3900551086,3900551086,0.0,nested,geometry
+place,3939074,Jerry City,C1,47,cross,,3917307020,0.49460768357616913,cross,non_nested
+place,3939130,Jerusalem,C1,47,cross,,3911146928,0.45052186646274844,cross,non_nested
+place,3939172,Jewett,C1,47,nested,3906768994,3906768994,0.0,nested,geometry
+place,3939340,Johnstown,C1,25,nested,3908951450,3908951450,0.0,nested,geometry
+place,3939508,Junction City,C1,47,nested,3912737968,3912737968,0.0,nested,geometry
+place,3939536,Kalida,C1,47,nested,3913778526,3913778526,0.0,nested,geometry
+place,3939662,Kelleys Island,C2,47,cross,,,1.0,cross,non_nested
+place,3939872,Kent,C2,25,cross,,3913308840,0.9999999999999991,cross,non_nested
+place,3939886,Kenton,C1,25,cross,,3906563282,0.36256410098516456,cross,non_nested
+place,3940040,Kettering,C2,25,cross,,3905775201,0.9999999999999993,cross,non_nested
+place,3940054,Kettlersville,C1,47,nested,3914979464,3914979464,0.0,nested,geometry
+place,3940180,Killbuck,C1,47,nested,3907540194,3907540194,0.0,nested,geometry
+place,3940376,Kingston,C1,47,nested,3914131822,3914131822,0.0,nested,geometry
+place,3940544,Kipton,C1,47,nested,3909311010,3909311010,0.0,nested,geometry
+place,3940558,Kirby,C1,47,cross,,3917538178,0.4018791676335116,cross,non_nested
+place,3940572,Kirkersville,C1,47,cross,,3908933894,0.07160263112074079,cross,non_nested
+place,3940642,Kirtland,C2,25,cross,,3905513988,0.9999999999999998,cross,non_nested
+place,3940670,Kirtland Hills,C2,47,cross,,,1.0,cross,non_nested
+place,3941118,Lafayette,C1,47,nested,3900337646,3900337646,0.0,nested,geometry
+place,3941230,LaGrange,C1,47,nested,3909341244,3909341244,0.0,nested,geometry
+place,3941398,Lakeline,C2,47,cross,,,1.0,cross,non_nested
+place,3941454,Lakemore,C2,47,cross,,,1.0,cross,non_nested
+place,3941608,Lakeview,C1,47,nested,3909174780,3909174780,0.0,nested,geometry
+place,3941664,Lakewood,C2,25,cross,,,1.0,cross,non_nested
+place,3941720,Lancaster,C1,25,cross,,3904532060,0.9693770743125564,cross,non_nested
+place,3941902,La Rue,C1,47,nested,3910151730,3910151730,0.0,nested,geometry
+place,3941986,Latty,C1,47,nested,3912561266,3912561266,0.0,nested,geometry
+place,3942028,Laura,C1,47,nested,3910978456,3910978456,0.0,nested,geometry
+place,3942084,Laurelville,C1,47,nested,3907361868,3907361868,0.0,nested,geometry
+place,3942364,Lebanon,C2,25,cross,,,1.0,cross,non_nested
+place,3942476,Leesburg,C1,47,nested,3907126026,3907126026,0.0,nested,geometry
+place,3942518,Leesville,C1,47,nested,3901958576,3901958576,0.0,nested,geometry
+place,3942560,Leetonia,C1,47,cross,,3902969848,0.05911079278061782,cross,non_nested
+place,3942602,Leipsic,C1,47,nested,3913779450,3913779450,0.0038464440380672703,cross,population
+place,3942938,Lewisburg,C1,47,nested,3913533992,3913533992,0.0,nested,geometry
+place,3942980,Lewisville,C9,47,nested,3911175497,3911175497,0.0,nested,geometry
+place,3942994,Lexington,C1,47,cross,,3913977616,0.3084899270023432,cross,non_nested
+place,3943414,Liberty Center,C1,47,cross,,3906943176,0.06414416202007708,cross,non_nested
+place,3943554,Lima,C2,25,cross,,3900371955,0.999999999999995,cross,non_nested
+place,3943722,Lincoln Heights,C2,47,cross,,,1.0,cross,non_nested
+place,3943904,Lindsey,C1,47,nested,3914381592,3914381592,0.0,nested,geometry
+place,3943918,Linndale,C2,47,cross,,,1.0,cross,non_nested
+place,3944030,Lisbon,C1,47,cross,,3902912910,0.16630302937351138,cross,non_nested
+place,3944086,Lithopolis,C1,47,cross,,3904506950,0.32339473647353384,cross,non_nested
+place,3944310,Lockbourne,C1,47,nested,3904933026,3904933026,0.12739031790431754,cross,population
+place,3944352,Lockington,C1,47,nested,3914981620,3914981620,0.0,nested,geometry
+place,3944366,Lockland,C2,47,cross,,,1.0,cross,non_nested
+place,3944604,Lodi,C5,47,cross,,3910334104,0.9999999999999999,cross,non_nested
+place,3944632,Logan,C1,25,cross,,3907326488,0.22699190686297288,cross,non_nested
+place,3944674,London,C5,25,cross,,3909778428,0.9999999999999998,cross,non_nested
+place,3944856,Lorain,C2,25,cross,,3909301812,0.9999999999999996,cross,non_nested
+place,3944912,Lordstown,C2,47,cross,,,1.0,cross,non_nested
+place,3944954,Lore City,C1,47,cross,,3905912938,0.623961416714373,cross,non_nested
+place,3945066,Loudonville,C1,47,cross,,3900533236,0.436717700772693,cross,non_nested
+place,3945094,Louisville,C2,25,cross,,3915155944,0.9999999999999998,cross,non_nested
+place,3945108,Loveland,C2,25,cross,,3902549322,0.9999999999999996,cross,non_nested
+place,3945164,Lowell,C1,47,nested,3916700338,3916700338,0.0,nested,geometry
+place,3945178,Lowellville,C2,47,cross,,3909963968,0.9999999999999993,cross,non_nested
+place,3945220,Lower Salem,C1,47,nested,3916770002,3916770002,0.0,nested,geometry
+place,3945276,Lucas,C1,47,nested,3913951576,3913951576,0.0,nested,geometry
+place,3945332,Luckey,C1,47,nested,3917377630,3917377630,0.0,nested,geometry
+place,3945374,Ludlow Falls,C1,47,nested,3910978456,3910978456,0.0,nested,geometry
+place,3945542,Lynchburg,C1,47,nested,3907122204,3907122204,0.10692106391120756,cross,population
+place,3945556,Lyndhurst,C2,25,cross,,,1.0,cross,non_nested
+place,3945626,Lyons,C1,47,nested,3905168896,3905168896,0.0,nested,geometry
+place,3945696,McArthur,C1,47,nested,3916324892,3916324892,0.0,nested,geometry
+place,3945794,McClure,C1,47,nested,3906920016,3906920016,0.0,nested,geometry
+place,3945808,McComb,C1,47,nested,3906363268,3906363268,0.0,nested,geometry
+place,3945822,McConnelsville,C1,47,nested,3911552122,3911552122,0.0,nested,geometry
+place,3945934,McDonald,C5,47,cross,,3915543344,0.9999999999999988,cross,non_nested
+place,3945976,Macedonia,C2,25,cross,,3915356490,0.9999999999999992,cross,non_nested
+place,3946046,McGuffey,C1,47,nested,3906547712,3906547712,0.0,nested,geometry
+place,3946158,Macksburg,C1,47,nested,3916703072,3916703072,0.0,nested,geometry
+place,3946312,Madeira,C2,25,cross,,3906116882,0.9999999999999989,cross,non_nested
+place,3946480,Madison,C1,47,nested,3908546494,3908546494,0.0,nested,geometry
+place,3946830,Magnetic Springs,C1,47,nested,3915942490,3915942490,0.0,nested,geometry
+place,3946844,Magnolia,C1,47,cross,,3915170436,0.28775364143828147,cross,non_nested
+place,3946872,Maineville,C1,47,nested,3916533068,3916533068,0.0,nested,geometry
+place,3946942,Malinta,C1,47,nested,3906951408,3906951408,0.0,nested,geometry
+place,3946970,Malta,C1,47,nested,3911546984,3911546984,0.0,nested,geometry
+place,3946998,Malvern,C1,47,nested,3901909400,3901909400,0.0,nested,geometry
+place,3947012,Manchester,C1,47,cross,,3900147026,0.05771879982848105,cross,non_nested
+place,3947138,Mansfield,C2,25,cross,,3913981578,0.9999999999999998,cross,non_nested
+place,3947180,Mantua,C2,47,cross,,3913371731,0.9999999999999999,cross,non_nested
+place,3947306,Maple Heights,C2,25,cross,,,1.0,cross,non_nested
+place,3947474,Marble Cliff,C2,47,cross,,,1.0,cross,non_nested
+place,3947502,Marblehead,C1,47,nested,3912320058,3912320058,0.0,nested,geometry
+place,3947558,Marengo,C1,47,nested,3911705508,3911705508,0.0,nested,geometry
+place,3947600,Mariemont,C2,47,cross,,3906101980,0.9999999999999998,cross,non_nested
+place,3947628,Marietta,C2,25,cross,,3916747642,0.9999999999999997,cross,non_nested
+place,3947754,Marion,C1,25,cross,,3910147768,0.026236145688408926,cross,non_nested
+place,3947992,Marseilles,C1,47,nested,3917548006,3917548006,0.0,nested,geometry
+place,3948048,Marshallville,C1,47,nested,3916904276,3916904276,0.0,nested,geometry
+place,3948090,Martinsburg,C1,47,nested,3908315504,3908315504,0.0,nested,geometry
+place,3948104,Martins Ferry,C1,25,nested,3901361378,3901361378,0.0,nested,geometry
+place,3948118,Martinsville,C1,47,nested,3902715238,3902715238,0.0,nested,geometry
+place,3948160,Marysville,C1,25,nested,3915959864,3915959864,0.008309543507032205,cross,population
+place,3948188,Mason,C2,25,cross,,,1.0,cross,non_nested
+place,3948244,Massillon,C2,25,cross,,,1.0,cross,non_nested
+place,3948286,Matamoras (New Matamoras),C1,47,nested,3916731276,3916731276,0.0,nested,geometry
+place,3948342,Maumee,C2,25,cross,,3917362162,0.9999999999999989,cross,non_nested
+place,3948468,Mayfield,C2,47,cross,,,1.0,cross,non_nested
+place,3948482,Mayfield Heights,C2,25,cross,,,1.0,cross,non_nested
+place,3948706,Mechanicsburg,C1,47,nested,3902130982,3902130982,0.0,nested,geometry
+place,3948790,Medina,C1,25,cross,,3910387052,0.9600957218431506,cross,non_nested
+place,3949000,Melrose,C1,47,nested,3912509512,3912509512,0.0,nested,geometry
+place,3949042,Mendon,C1,47,nested,3910778442,3910778442,0.0,nested,geometry
+place,3949056,Mentor,C2,25,cross,,,1.0,cross,non_nested
+place,3949098,Mentor-on-the-Lake,C2,25,cross,,,1.0,cross,non_nested
+place,3949238,Metamora,C1,47,nested,3905101728,3905101728,0.0,nested,geometry
+place,3949294,Meyers Lake,C1,47,cross,,3915112014,0.29463610274063057,cross,non_nested
+place,3949434,Miamisburg,C1,25,nested,3911349392,3911349392,0.0,nested,geometry
+place,3949644,Middleburg Heights,C2,25,cross,,,1.0,cross,non_nested
+place,3949700,Middlefield,C2,47,cross,,3905510464,0.9999999999999991,cross,non_nested
+place,3949728,Middle Point,C1,47,nested,3916181676,3916181676,0.0,nested,geometry
+place,3949756,Middleport,C1,47,nested,3910570114,3910570114,0.0,nested,geometry
+place,3949840,Middletown,C6,25,cross,,3916528490,0.8646415648807613,cross,non_nested
+place,3949896,Midland,C1,47,nested,3902738542,3902738542,0.0,nested,geometry
+place,3949966,Midvale,C1,47,cross,,3915731066,0.3704140013349039,cross,non_nested
+place,3950008,Midway,C1,47,nested,3909765480,3909765480,0.0,nested,geometry
+place,3950036,Mifflin,C1,47,nested,3900550050,3900550050,0.0,nested,geometry
+place,3950134,Milan,C1,47,cross,,3904350148,0.42214457460683247,cross,non_nested
+place,3950176,Milford,C2,25,cross,,3902578288,0.9999999999999981,cross,non_nested
+place,3950218,Milford Center,C1,47,nested,3915978582,3915978582,0.0,nested,geometry
+place,3950260,Millbury,C1,47,nested,3917341328,3917341328,0.0,nested,geometry
+place,3950316,Milledgeville,C1,47,nested,3904738388,3904738388,0.0,nested,geometry
+place,3950358,Miller City,C1,47,nested,3913759612,3913759612,0.0,nested,geometry
+place,3950372,Millersburg,C1,47,nested,3907533460,3907533460,0.0,nested,geometry
+place,3950400,Millersport,C1,47,nested,3904580570,3904580570,0.0,nested,geometry
+place,3950540,Millville,C1,47,cross,,3901733250,0.35206644704445667,cross,non_nested
+place,3950708,Milton Center,C1,47,nested,3917350680,3917350680,0.0,nested,geometry
+place,3950722,Miltonsburg,C1,47,nested,3911146928,3911146928,0.0,nested,geometry
+place,3950764,Mineral City,C1,47,nested,3915770443,3915770443,0.0,nested,geometry
+place,3950834,Minerva,C1,47,cross,,3915159850,0.4834747479208627,cross,non_nested
+place,3950862,Minerva Park,C1,47,nested,3904906922,3904906922,0.0,nested,geometry
+place,3950904,Mingo Junction,C1,47,nested,3908174615,3908174615,0.0,nested,geometry
+place,3950918,Minster,C1,47,nested,3901137674,3901137674,0.008858710904088095,cross,population
+place,3951058,Mogadore,C2,47,cross,,3913375189,0.9999999999999996,cross,non_nested
+place,3951310,Monroe,C1,25,cross,,3901742672,0.31806236840434976,cross,non_nested
+place,3951618,Monroeville,C1,47,nested,3907767006,3907767006,0.0,nested,geometry
+place,3951674,Montezuma,C1,47,nested,3910728350,3910728350,0.0,nested,geometry
+place,3951716,Montgomery,C2,25,cross,,,1.0,cross,non_nested
+place,3951772,Montpelier,C5,47,cross,,3917138864,0.9999999999999997,cross,non_nested
+place,3952010,Moraine,C2,25,cross,,3911349392,0.9999999999999976,cross,non_nested
+place,3952052,Moreland Hills,C2,47,cross,,3903513372,0.9999999999999994,cross,non_nested
+place,3952276,Morral,C1,47,nested,3910170240,3910170240,0.0,nested,geometry
+place,3952346,Morristown,C1,47,nested,3901378218,3901378218,0.0,nested,geometry
+place,3952374,Morrow,C1,47,nested,3916569988,3916569988,0.0,nested,geometry
+place,3952416,Moscow,C1,47,nested,3902581130,3902581130,0.0,nested,geometry
+place,3952598,Mount Blanchard,C1,47,nested,3906321462,3906321462,0.0,nested,geometry
+place,3952668,Mount Cory,C1,47,nested,3906378330,3906378330,0.0,nested,geometry
+place,3952682,Mount Eaton,C1,47,nested,3916959556,3916959556,0.0,nested,geometry
+place,3952738,Mount Gilead,C1,47,nested,3911730128,3911730128,0.0,nested,geometry
+place,3952752,Mount Healthy,C2,25,cross,,,1.0,cross,non_nested
+place,3952906,Mount Orab,C1,47,cross,,3901562596,0.599536628260331,cross,non_nested
+place,3952976,Mount Pleasant,C1,47,nested,3908152990,3908152990,0.0,nested,geometry
+place,3953046,Mount Sterling,C1,47,nested,3909763338,3909763338,0.0,nested,geometry
+place,3953102,Mount Vernon,C2,25,cross,,3908350330,0.9999999999999984,cross,non_nested
+place,3953144,Mount Victory,C1,47,nested,3906532837,3906532837,0.0,nested,geometry
+place,3953186,Mowrystown,C1,47,nested,3907184826,3907184826,0.0,nested,geometry
+place,3953312,Munroe Falls,C2,25,cross,,,1.0,cross,non_nested
+place,3953410,Murray City,C1,47,nested,3907380780,3907380780,0.0,nested,geometry
+place,3953480,Mutual,C1,47,nested,3902178274,3902178274,0.0,nested,geometry
+place,3953550,Napoleon,C1,25,cross,,3906953564,0.3020566253613419,cross,non_nested
+place,3953634,Nashville,C1,47,cross,,3907581368,0.2860951760896404,cross,non_nested
+place,3953690,Navarre,C1,47,cross,,3915106180,0.26834803293451165,cross,non_nested
+place,3953816,Nellie,C1,47,nested,3903138556,3903138556,0.0,nested,geometry
+place,3953886,Nelsonville,C1,25,nested,3900986982,3900986982,0.0,nested,geometry
+place,3953942,Nevada,C1,47,cross,,3917502190,0.4887445737291179,cross,non_nested
+place,3953956,Neville,C1,47,nested,3902581130,3902581130,0.0,nested,geometry
+place,3953970,New Albany,C1,25,cross,,3904962974,0.454412178267516,cross,non_nested
+place,3954012,New Alexandria,C1,47,cross,,3908119484,0.2332552381368692,cross,non_nested
+place,3954040,Newark,C2,25,cross,,3908978400,0.9999999999999989,cross,non_nested
+place,3954068,New Athens,C1,47,nested,3906702764,3906702764,0.0,nested,geometry
+place,3954110,New Bavaria,C1,47,nested,3906963296,3906963296,0.0,nested,geometry
+place,3954152,New Bloomington,C1,47,nested,3910151730,3910151730,0.0,nested,geometry
+place,3954166,New Boston,C2,47,cross,,,1.0,cross,non_nested
+place,3954194,New Bremen,C1,47,cross,,3901129848,0.0941978169629842,cross,non_nested
+place,3954250,Newburgh Heights,C2,47,cross,,,1.0,cross,non_nested
+place,3954334,New Carlisle,C1,25,cross,,3902306054,0.22207314935756367,cross,non_nested
+place,3954432,Newcomerstown,C1,47,nested,3915759304,3915759304,0.01223483586959706,cross,population
+place,3954446,New Concord,C1,47,nested,3911978498,3911978498,0.05987701852648179,cross,population
+place,3954562,New Franklin,C2,25,cross,,3915138094,0.9999999999999991,cross,non_nested
+place,3954726,New Holland,C1,47,cross,,3912962008,0.11683814649749365,cross,non_nested
+place,3954838,New Knoxville,C1,47,nested,3901181074,3901181074,0.0,nested,geometry
+place,3954852,New Lebanon,C1,47,cross,,3911337912,0.39017815420388247,cross,non_nested
+place,3954866,New Lexington,C1,47,nested,3912762680,3912762680,0.0,nested,geometry
+place,3954908,New London,C1,47,nested,3907754922,3907754922,0.0,nested,geometry
+place,3954978,New Madison,C1,47,cross,,3903733810,0.23532908369043717,cross,non_nested
+place,3955104,New Miami,C1,47,nested,3901769498,3901769498,0.0,nested,geometry
+place,3955118,New Middletown,C2,47,cross,,,1.0,cross,non_nested
+place,3955188,New Paris,C1,47,nested,3913538780,3913538780,0.0,nested,geometry
+place,3955216,New Philadelphia,C2,25,cross,,3915787094,0.9999999999999982,cross,non_nested
+place,3955384,New Richmond,C1,47,nested,3902557960,3902557960,0.047055518809523945,cross,population
+place,3955398,New Riegel,C1,47,nested,3914706432,3914706432,0.0,nested,geometry
+place,3955552,New Straitsville,C1,47,nested,3912716350,3912716350,0.0,nested,geometry
+place,3955650,Newton Falls,C1,47,nested,3915555636,3915555636,0.0,nested,geometry
+place,3955678,Newtown,C2,47,cross,,3906101980,0.9999999999999997,cross,non_nested
+place,3955748,New Vienna,C1,47,nested,3902731710,3902731710,0.0,nested,geometry
+place,3955776,New Washington,C1,47,nested,3903319134,3903319134,0.0,nested,geometry
+place,3955790,New Waterford,C1,47,nested,3902978890,3902978890,0.0,nested,geometry
+place,3955818,New Weston,C1,47,nested,3903701294,3903701294,0.0,nested,geometry
+place,3955874,Ney,C1,47,nested,3903981200,3903981200,0.0,nested,geometry
+place,3955916,Niles,C1,25,cross,,3915582446,0.17600444813231633,cross,non_nested
+place,3956154,North Baltimore,C1,47,cross,,3917334986,0.03637821928678158,cross,non_nested
+place,3956182,North Bend,C1,47,nested,3906149364,3906149364,0.0,nested,geometry
+place,3956294,North Canton,C1,25,nested,3915162988,3915162988,0.00025566978162641044,cross,population
+place,3956322,North College Hill,C2,25,cross,,,1.0,cross,non_nested
+place,3956420,North Fairfield,C1,47,nested,3907726040,3907726040,0.0,nested,geometry
+place,3956448,Northfield,C2,47,cross,,3915356490,0.999999999999999,cross,non_nested
+place,3956588,North Hampton,C1,47,nested,3902362610,3902362610,0.0,nested,geometry
+place,3956700,North Kingsville,C2,47,cross,,3900702652,0.9999999999999999,cross,non_nested
+place,3956770,North Lewisburg,C1,47,nested,3902169078,3902169078,0.0,nested,geometry
+place,3956882,North Olmsted,C2,25,cross,,,1.0,cross,non_nested
+place,3956910,North Perry,C1,47,cross,,3908561896,0.0374417750723994,cross,non_nested
+place,3956924,North Randall,C2,47,cross,,,1.0,cross,non_nested
+place,3956966,North Ridgeville,C2,25,cross,,,1.0,cross,non_nested
+place,3956994,North Robinson,C1,47,cross,,3903338570,0.42862746243159294,cross,non_nested
+place,3957008,North Royalton,C2,25,cross,,,1.0,cross,non_nested
+place,3957064,North Star,C1,47,nested,3903780248,3903780248,0.0,nested,geometry
+place,3957190,Northwood,C2,25,cross,,3917362162,0.9999999999999997,cross,non_nested
+place,3957260,Norton,C2,25,cross,,,1.0,cross,non_nested
+place,3957302,Norwalk,C2,25,cross,,,1.0,cross,non_nested
+place,3957372,Norwich,C1,47,nested,3911978498,3911978498,0.0,nested,geometry
+place,3957386,Norwood,C2,25,cross,,3906116882,0.9999999999999983,cross,non_nested
+place,3957582,Oak Harbor,C1,47,nested,3912369946,3912369946,0.0,nested,geometry
+place,3957596,Oak Hill,C1,47,cross,,3907946466,0.4880412638163621,cross,non_nested
+place,3957750,Oakwood,C2,47,cross,,,1.0,cross,non_nested
+place,3957764,Oakwood,C2,25,cross,,,1.0,cross,non_nested
+place,3957792,Oakwood,C1,47,nested,3912509512,3912509512,0.0,nested,geometry
+place,3957834,Oberlin,C2,25,cross,,,1.0,cross,non_nested
+place,3957862,Obetz,C1,25,cross,,3904933026,0.23641457085533288,cross,non_nested
+place,3957918,Octa,C1,47,cross,,3904738598,0.26638424688871953,cross,non_nested
+place,3958002,Ohio City,C1,47,nested,3916143372,3916143372,0.0,nested,geometry
+place,3958226,Old Washington,C1,47,nested,3905985708,3905985708,0.0,nested,geometry
+place,3958422,Olmsted Falls,C2,25,cross,,,1.0,cross,non_nested
+place,3958520,Ontario,C1,25,nested,3913974128,3913974128,0.0,nested,geometry
+place,3958604,Orange,C2,47,cross,,,1.0,cross,non_nested
+place,3958674,Orangeville,C5,47,cross,,,1.0,cross,non_nested
+place,3958730,Oregon,C2,25,cross,,,1.0,cross,non_nested
+place,3958828,Orrville,C1,25,cross,,3916931878,0.24682744065841838,cross,non_nested
+place,3958856,Orwell,C1,47,nested,3900758870,3900758870,0.0,nested,geometry
+place,3958912,Osgood,C1,47,nested,3903761168,3903761168,0.0,nested,geometry
+place,3958940,Ostrander,C1,47,nested,3904170842,3904170842,0.0,nested,geometry
+place,3958982,Ottawa,C1,47,nested,3913758996,3913758996,0.0,nested,geometry
+place,3959010,Ottawa Hills,C2,47,cross,,,1.0,cross,non_nested
+place,3959052,Ottoville,C1,47,nested,3913751660,3913751660,0.0,nested,geometry
+place,3959066,Otway,C1,47,nested,3914509764,3914509764,0.0,nested,geometry
+place,3959220,Owensville,C1,47,nested,3902574825,3902574825,0.0,nested,geometry
+place,3959234,Oxford,C1,25,nested,3901759241,3901759241,0.0,nested,geometry
+place,3959416,Painesville,C2,25,cross,,,1.0,cross,non_nested
+place,3959598,Palestine,C1,47,nested,3903743092,3903743092,0.0,nested,geometry
+place,3959738,Pandora,C1,47,nested,3913767174,3913767174,0.0,nested,geometry
+place,3961000,Parma,C2,25,cross,,,1.0,cross,non_nested
+place,3961028,Parma Heights,C2,25,cross,,,1.0,cross,non_nested
+place,3961056,Parral,C1,47,nested,3915722470,3915722470,0.0,nested,geometry
+place,3961112,Pataskala,C2,25,cross,,,1.0,cross,non_nested
+place,3961182,Patterson,C1,47,nested,3906537814,3906537814,0.0,nested,geometry
+place,3961252,Paulding,C1,47,cross,,3912561266,0.17521301833406547,cross,non_nested
+place,3961322,Payne,C1,47,cross,,3912533950,0.3037361459850832,cross,non_nested
+place,3961420,Peebles,C1,47,nested,3900148888,3900148888,0.0,nested,geometry
+place,3961504,Pemberville,C1,47,nested,3917328756,3917328756,0.0,nested,geometry
+place,3961574,Peninsula,C1,47,nested,3915307776,3915307776,0.0,nested,geometry
+place,3961686,Pepper Pike,C2,25,cross,,,1.0,cross,non_nested
+place,3961882,Perry,C1,47,nested,3908561896,3908561896,0.0,nested,geometry
+place,3962148,Perrysburg,C2,25,cross,,3917349812,0.9999999999999998,cross,non_nested
+place,3962190,Perrysville,C1,47,nested,3900531682,3900531682,0.0,nested,geometry
+place,3962414,Phillipsburg,C1,47,nested,3911315518,3911315518,0.0,nested,geometry
+place,3962442,Philo,C1,47,nested,3911933936,3911933936,0.0,nested,geometry
+place,3962498,Pickerington,C1,25,cross,,3904580206,0.030990800827025013,cross,non_nested
+place,3962708,Piketon,C1,47,nested,3913171171,3913171171,0.0,nested,geometry
+place,3962834,Pioneer,C5,47,cross,,,1.0,cross,non_nested
+place,3962848,Piqua,C2,25,cross,,3910918224,0.9999999999999996,cross,non_nested
+place,3962890,Pitsburg,C1,47,nested,3903751366,3903751366,0.0,nested,geometry
+place,3963030,Plain City,C1,47,cross,,3909720142,0.34092883113768985,cross,non_nested
+place,3963044,Plainfield,C1,47,nested,3903143960,3903143960,0.0,nested,geometry
+place,3963436,Pleasant City,C1,47,nested,3905979156,3905979156,0.0,nested,geometry
+place,3963534,Pleasant Hill,C1,47,nested,3910955594,3910955594,0.0,nested,geometry
+place,3963576,Pleasant Plain,C1,47,nested,3916533474,3916533474,0.0,nested,geometry
+place,3963716,Pleasantville,C1,47,cross,,3904563240,0.49747666454665923,cross,non_nested
+place,3963800,Plymouth,C1,47,cross,,3907754712,0.47648794388519256,cross,non_nested
+place,3963954,Poland,C1,47,nested,3909963968,3909963968,0.0,nested,geometry
+place,3963996,Polk,C1,47,nested,3900537660,3900537660,0.0,nested,geometry
+place,3964024,Pomeroy,C1,47,nested,3910570114,3910570114,0.0,nested,geometry
+place,3964108,Portage,C1,47,cross,,3917364122,0.3402501033494023,cross,non_nested
+place,3964150,Port Clinton,C5,25,cross,,,1.0,cross,non_nested
+place,3964262,Port Jefferson,C1,47,nested,3914969960,3914969960,0.0,nested,geometry
+place,3964304,Portsmouth,C2,25,cross,,,1.0,cross,non_nested
+place,3964346,Port Washington,C1,47,nested,3915769974,3915769974,0.0,nested,geometry
+place,3964360,Port William,C1,47,nested,3902743064,3902743064,0.0,nested,geometry
+place,3964430,Potsdam,C1,47,nested,3910978456,3910978456,0.0,nested,geometry
+place,3964486,Powell,C1,25,cross,,3904143106,0.0114432026909979,cross,non_nested
+place,3964542,Powhatan Point,C1,47,nested,3901386996,3901386996,0.0,nested,geometry
+place,3964766,Proctorville,C1,47,nested,3908778372,3908778372,0.0,nested,geometry
+place,3964780,Prospect,C1,47,nested,3910164794,3910164794,0.0,nested,geometry
+place,3965032,Put-in-Bay,C1,47,nested,3912365046,3912365046,0.0,nested,geometry
+place,3965116,Quaker City,C1,47,nested,3905950568,3905950568,0.0,nested,geometry
+place,3965200,Quincy,C1,47,nested,3909149378,3909149378,0.0,nested,geometry
+place,3965256,Racine,C1,47,nested,3910575847,3910575847,0.0,nested,geometry
+place,3965508,Rarden,C1,47,nested,3914565522,3914565522,0.0,nested,geometry
+place,3965592,Ravenna,C2,25,cross,,,1.0,cross,non_nested
+place,3965634,Rawson,C1,47,nested,3906378330,3906378330,0.0,nested,geometry
+place,3965662,Rayland,C1,47,nested,3908180878,3908180878,0.0,nested,geometry
+place,3965732,Reading,C2,25,cross,,3906175973,0.9999999999999999,cross,non_nested
+place,3966152,Reminderville,C2,25,cross,,3915378064,0.9999999999999996,cross,non_nested
+place,3966222,Rendville,C9,47,nested,3912751520,3912751520,0.0,nested,geometry
+place,3966320,Republic,C1,47,nested,3914771024,3914771024,0.0,nested,geometry
+place,3966390,Reynoldsburg,C1,25,cross,,3904977714,0.4276734261541175,cross,non_nested
+place,3966530,Richfield,C1,47,nested,3915366544,3915366544,0.0,nested,geometry
+place,3966824,Richmond,C1,47,nested,3908169876,3908169876,0.0,nested,geometry
+place,3966894,Richmond Heights,C2,25,cross,,,1.0,cross,non_nested
+place,3966936,Richwood,C1,47,nested,3915915112,3915915112,0.0,nested,geometry
+place,3967118,Ridgeway,C1,47,cross,,3909107552,0.4384292980106667,cross,non_nested
+place,3967258,Rio Grande,C1,47,nested,3905365228,3905365228,0.0,nested,geometry
+place,3967272,Ripley,C1,47,nested,3901578232,3901578232,0.0,nested,geometry
+place,3967314,Risingsun,C1,47,nested,3917351744,3917351744,0.0,nested,geometry
+place,3967356,Rittman,C5,25,cross,,3916914240,0.999999999999999,cross,non_nested
+place,3967440,Riverlea,C1,47,nested,3904971787,3904971787,0.0,nested,geometry
+place,3967468,Riverside,C2,25,cross,,3905704220,0.9999999999999997,cross,non_nested
+place,3967600,Roaming Shores,C1,47,cross,,3900768224,0.39833765612727384,cross,non_nested
+place,3967762,Rochester,C1,47,nested,3909367776,3909367776,0.0,nested,geometry
+place,3967846,Rock Creek,C1,47,nested,3900752066,3900752066,0.0,nested,geometry
+place,3967874,Rockford,C1,47,nested,3910722708,3910722708,0.0,nested,geometry
+place,3968042,Rocky Ridge,C1,47,nested,3912305620,3912305620,0.0,nested,geometry
+place,3968056,Rocky River,C2,25,cross,,,1.0,cross,non_nested
+place,3968084,Rogers,C1,47,nested,3902949784,3902949784,0.0,nested,geometry
+place,3968560,Roseville,C1,47,cross,,3912733964,0.39330231454142395,cross,non_nested
+place,3968672,Rossburg,C1,47,nested,3903701294,3903701294,0.0,nested,geometry
+place,3968686,Rossford,C2,25,cross,,,1.0,cross,non_nested
+place,3968742,Roswell,C1,47,cross,,3915731066,0.41464779897475496,cross,non_nested
+place,3969176,Rushsylvania,C1,47,nested,3909169134,3909169134,0.0,nested,geometry
+place,3969204,Rushville,C1,47,nested,3904566684,3904566684,0.0,nested,geometry
+place,3969302,Russells Point,C1,47,nested,3909181424,3909181424,0.0019300805829616842,cross,population
+place,3969316,Russellville,C1,47,nested,3901538528,3901538528,0.0,nested,geometry
+place,3969344,Russia,C1,47,nested,3914944884,3914944884,0.0,nested,geometry
+place,3969358,Rutland,C1,47,nested,3910569372,3910569372,0.0,nested,geometry
+place,3969400,Sabina,C1,47,nested,3902766642,3902766642,0.0,nested,geometry
+place,3969470,St. Bernard,C2,47,cross,,,1.0,cross,non_nested
+place,3969526,St. Clairsville,C1,25,nested,3901366628,3901366628,0.0,nested,geometry
+place,3969540,St. Henry,C1,47,nested,3910731430,3910731430,0.0,nested,geometry
+place,3969652,St. Louisville,C1,47,nested,3908955580,3908955580,0.0,nested,geometry
+place,3969680,St. Marys,C1,25,cross,,3901169694,0.3000081862588831,cross,non_nested
+place,3969708,St. Paris,C1,47,cross,,3902139228,0.2648987357918883,cross,non_nested
+place,3969834,Salem,C1,25,cross,,3902961798,0.049056247307278485,cross,non_nested
+place,3970100,Salineville,C1,47,nested,3902981158,3902981158,0.0,nested,geometry
+place,3970380,Sandusky,C2,25,cross,,3904347572,0.9999999999999993,cross,non_nested
+place,3970520,Sarahsville,C1,47,nested,3912112994,3912112994,0.0,nested,geometry
+place,3970534,Sardinia,C1,47,nested,3901581102,3901581102,0.0013371240836043145,cross,population
+place,3970576,Savannah,C1,47,nested,3900515672,3900515672,0.0,nested,geometry
+place,3970814,Scio,C1,47,nested,3906756084,3906756084,0.0,nested,geometry
+place,3971080,Scott,C1,47,cross,,3916178596,0.3770063206522421,cross,non_nested
+place,3971206,Seaman,C1,47,cross,,3900171052,0.06781161419020826,cross,non_nested
+place,3971220,Sebring,C2,47,cross,,,1.0,cross,non_nested
+place,3971360,Senecaville,C1,47,nested,3905966698,3905966698,0.0,nested,geometry
+place,3971416,Seven Hills,C2,25,cross,,,1.0,cross,non_nested
+place,3971444,Seven Mile,C1,47,cross,,3901782082,0.1933465283075346,cross,non_nested
+place,3971486,Seville,C1,47,cross,,3910383426,0.9717887570719074,cross,non_nested
+place,3971640,Shadyside,C1,47,cross,,3901348580,0.10119195602988945,cross,non_nested
+place,3971682,Shaker Heights,C2,25,cross,,,1.0,cross,non_nested
+place,3971892,Sharonville,C6,25,cross,,3901783150,0.9404902247231166,cross,non_nested
+place,3971962,Shawnee,C1,47,nested,3912770226,3912770226,0.0,nested,geometry
+place,3971976,Shawnee Hills,C2,47,cross,,3904181242,0.9999999999999992,cross,non_nested
+place,3972060,Sheffield,C2,47,cross,,,1.0,cross,non_nested
+place,3972088,Sheffield Lake,C2,25,cross,,,1.0,cross,non_nested
+place,3972102,Shelby,C1,25,cross,,3913971830,0.38272828183788915,cross,non_nested
+place,3972242,Sherrodsville,C1,47,cross,,3901958576,0.1070411611603114,cross,non_nested
+place,3972256,Sherwood,C1,47,nested,3903921420,3903921420,0.0,nested,geometry
+place,3972298,Shiloh,C1,47,nested,3913912420,3913912420,0.0,nested,geometry
+place,3972396,Shreve,C1,47,nested,3916916224,3916916224,0.0,nested,geometry
+place,3972424,Sidney,C1,25,cross,,3914916168,0.069425480507427,cross,non_nested
+place,3972494,Silver Lake,C2,47,cross,,,1.0,cross,non_nested
+place,3972522,Silverton,C2,47,cross,,,1.0,cross,non_nested
+place,3972578,Sinking Spring,C1,47,nested,3907109736,3907109736,0.0,nested,geometry
+place,3972788,Smithville,C1,47,nested,3916931878,3916931878,0.0,nested,geometry
+place,3972928,Solon,C2,25,cross,,3915378064,0.9999999999999994,cross,non_nested
+place,3972977,Somerset,C1,47,nested,3912765760,3912765760,0.0,nested,geometry
+place,3973040,South Amherst,C1,47,cross,,3909301812,0.47245666002110676,cross,non_nested
+place,3973068,South Bloomfield,C1,47,nested,3912933978,3912933978,0.0,nested,geometry
+place,3973124,South Charleston,C1,47,nested,3902346354,3902346354,0.0,nested,geometry
+place,3973264,South Euclid,C2,25,cross,,,1.0,cross,non_nested
+place,3973446,South Lebanon,C1,47,cross,,3916578610,0.451680853061128,cross,non_nested
+place,3973670,South Point,C1,47,cross,,3908726782,0.415625708281726,cross,non_nested
+place,3973684,South Russell,C5,47,cross,,,1.0,cross,non_nested
+place,3973698,South Salem,C1,47,nested,3914110016,3914110016,0.0,nested,geometry
+place,3973768,South Solon,C1,47,nested,3909774784,3909774784,0.0,nested,geometry
+place,3973796,South Vienna,C1,47,nested,3902333586,3902333586,0.0,nested,geometry
+place,3973824,South Webster,C1,47,nested,3914506992,3914506992,0.0,nested,geometry
+place,3973894,South Zanesville,C1,47,cross,,3911974125,0.03311118425042532,cross,non_nested
+place,3973950,Sparta,C1,47,nested,3911773061,3911773061,0.0,nested,geometry
+place,3973992,Spencer,C5,47,cross,,,1.0,cross,non_nested
+place,3974034,Spencerville,C1,47,nested,3900373982,3900373982,0.0,nested,geometry
+place,3974076,Springboro,C1,25,cross,,3916515700,0.05905681939354856,cross,non_nested
+place,3974104,Springdale,C2,25,cross,,3906174121,0.9999999999999991,cross,non_nested
+place,3974118,Springfield,C5,25,cross,,3902333586,0.9999999999999951,cross,non_nested
+place,3974216,Spring Valley,C1,47,nested,3905774223,3905774223,0.0,nested,geometry
+place,3974300,Stafford,C1,47,nested,3911128357,3911128357,0.0,nested,geometry
+place,3974608,Steubenville,C2,25,cross,,,1.0,cross,non_nested
+place,3974748,Stockport,C1,47,nested,3911586016,3911586016,0.0,nested,geometry
+place,3974804,Stone Creek,C1,47,nested,3915738836,3915738836,0.0,nested,geometry
+place,3974916,Stoutsville,C1,47,nested,3904515686,3904515686,0.0,nested,geometry
+place,3974944,Stow,C2,25,cross,,,1.0,cross,non_nested
+place,3974958,Strasburg,C1,47,nested,3915728462,3915728462,0.0,nested,geometry
+place,3975000,Stratton,C1,47,cross,,3908170086,0.4548310550145876,cross,non_nested
+place,3975014,Streetsboro,C2,25,cross,,,1.0,cross,non_nested
+place,3975098,Strongsville,C2,25,cross,,,1.0,cross,non_nested
+place,3975126,Struthers,C5,25,cross,,3909907468,0.9999999999999981,cross,non_nested
+place,3975140,Stryker,C1,47,nested,3917174131,3917174131,0.0,nested,geometry
+place,3975196,Sugar Bush Knolls,C2,47,cross,,3913328392,0.9999999999999998,cross,non_nested
+place,3975210,Sugarcreek,C1,47,nested,3915775217,3915775217,0.0,nested,geometry
+place,3975252,Sugar Grove,C1,47,nested,3904505956,3904505956,0.0,nested,geometry
+place,3975406,Summerfield,C1,47,nested,3912147810,3912147810,0.0,nested,geometry
+place,3975574,Summitville,C1,47,nested,3902928238,3902928238,0.0,nested,geometry
+place,3975602,Sunbury,C1,25,cross,,3904105774,0.6807862902131869,cross,non_nested
+place,3975896,Swanton,C1,47,cross,,3905175861,0.5989355395631102,cross,non_nested
+place,3975980,Sycamore,C1,47,nested,3917575987,3917575987,0.0,nested,geometry
+place,3976022,Sylvania,C1,25,nested,3909576025,3909576025,0.0,nested,geometry
+place,3976050,Syracuse,C1,47,nested,3910575847,3910575847,0.0,nested,geometry
+place,3976106,Tallmadge,C2,25,cross,,3913375189,0.9999999999999992,cross,non_nested
+place,3976148,Tarlton,C1,47,nested,3912970184,3912970184,0.005364618738025918,cross,population
+place,3976428,Terrace Park,C2,47,cross,,,1.0,cross,non_nested
+place,3976582,The Village of Indian Hill,C2,25,cross,,,1.0,cross,non_nested
+place,3976680,Thornville,C1,47,nested,3912776659,3912776659,0.0,nested,geometry
+place,3976764,Thurston,C1,47,nested,3904580570,3904580570,0.0,nested,geometry
+place,3976778,Tiffin,C2,25,cross,,3914716154,0.999999999999999,cross,non_nested
+place,3976806,Tiltonsville,C1,47,nested,3908180878,3908180878,0.0,nested,geometry
+place,3976834,Timberlake,C2,47,cross,,,1.0,cross,non_nested
+place,3976876,Tipp City,C1,25,nested,3910951492,3910951492,0.02930437251271175,cross,population
+place,3976932,Tiro,C1,47,nested,3903302890,3903302890,0.0,nested,geometry
+place,3977000,Toledo,C5,25,cross,,,1.0,cross,non_nested
+place,3977070,Tontogany,C1,47,nested,3917381704,3917381704,0.0,nested,geometry
+place,3977112,Toronto,C1,25,cross,,3908137534,0.2921837631400204,cross,non_nested
+place,3977308,Tremont City,C1,47,nested,3902329862,3902329862,0.0,nested,geometry
+place,3977322,Trenton,C2,25,cross,,,1.0,cross,non_nested
+place,3977406,Trimble,C1,47,nested,3900977420,3900977420,0.0,nested,geometry
+place,3977504,Trotwood,C2,25,cross,,,1.0,cross,non_nested
+place,3977588,Troy,C1,25,cross,,3910918224,0.07264322480594594,cross,non_nested
+place,3977924,Tuscarawas,C1,47,nested,3915781060,3915781060,0.0,nested,geometry
+place,3978050,Twinsburg,C2,25,cross,,,1.0,cross,non_nested
+place,3978176,Uhrichsville,C1,25,nested,3915750232,3915750232,0.0,nested,geometry
+place,3978470,Union,C6,25,cross,,3911310618,0.955448781679191,cross,non_nested
+place,3978624,Union City,C1,47,nested,3903737758,3903737758,0.0,nested,geometry
+place,3978834,Unionville Center,C1,47,nested,3915920170,3915920170,0.0,nested,geometry
+place,3978932,University Heights,C2,25,cross,,,1.0,cross,non_nested
+place,3979002,Upper Arlington,C2,25,cross,,,1.0,cross,non_nested
+place,3979044,Upper Sandusky,C1,25,cross,,3917519190,0.037472102414511224,cross,non_nested
+place,3979072,Urbana,C1,25,cross,,3902179086,0.08728778702839049,cross,non_nested
+place,3979100,Urbancrest,C1,47,nested,3904937772,3904937772,0.0,nested,geometry
+place,3979114,Utica,C1,47,cross,,3908981410,0.02842356908341011,cross,non_nested
+place,3979226,Valley Hi,C1,47,cross,,3909138682,0.12440610880052687,cross,non_nested
+place,3979268,Valley View,C2,47,cross,,3915369428,0.9999999999999993,cross,non_nested
+place,3979282,Valleyview,C1,47,nested,3904928280,3904928280,0.0,nested,geometry
+place,3979394,Van Buren,C1,47,nested,3906301308,3906301308,0.0,nested,geometry
+place,3979492,Vandalia,C2,25,cross,,,1.0,cross,non_nested
+place,3979534,Vanlue,C1,47,nested,3906301644,3906301644,0.0,nested,geometry
+place,3979562,Van Wert,C1,25,cross,,3916163408,0.16940760254152382,cross,non_nested
+place,3979632,Venedocia,C1,47,cross,,3916138990,0.4151471922855922,cross,non_nested
+place,3979716,Vermilion,C6,25,cross,,3909309568,0.19149729291752762,cross,non_nested
+place,3979898,Verona,C1,47,cross,,3913533992,0.13122312014046172,cross,non_nested
+place,3979912,Versailles,C1,47,nested,3903782152,3903782152,0.0,nested,geometry
+place,3980178,Vinton,C1,47,nested,3905336848,3905336848,0.0,nested,geometry
+place,3980304,Wadsworth,C2,25,cross,,,1.0,cross,non_nested
+place,3980402,Waite Hill,C2,47,cross,,,1.0,cross,non_nested
+place,3980458,Wakeman,C1,47,nested,3907780472,3907780472,0.0,nested,geometry
+place,3980486,Walbridge,C1,47,nested,3917341328,3917341328,0.0,nested,geometry
+place,3980500,Waldo,C1,47,nested,3910180514,3910180514,0.0,nested,geometry
+place,3980738,Walton Hills,C2,47,cross,,3915369428,0.9999999999999989,cross,non_nested
+place,3980766,Wapakoneta,C1,25,cross,,3901122722,0.25877500614017807,cross,non_nested
+place,3980892,Warren,C6,25,cross,,3915536554,0.9994181667922148,cross,non_nested
+place,3980990,Warrensville Heights,C2,25,cross,,,1.0,cross,non_nested
+place,3981032,Warsaw,C1,47,nested,3903138556,3903138556,0.0,nested,geometry
+place,3981718,Washington Court House,C2,25,cross,,3904778316,0.9999999999999996,cross,non_nested
+place,3981732,Washingtonville,C1,47,cross,,3902969848,0.33901994994123735,cross,non_nested
+place,3981858,Waterville,C1,25,cross,,3909581872,0.9994875382448593,cross,non_nested
+place,3981928,Wauseon,C1,25,nested,3905116126,3905116126,0.0,nested,geometry
+place,3981935,Waverly,C1,47,nested,3913161434,3913161434,0.0,nested,geometry
+place,3982334,Wayne,C1,47,nested,3917351744,3917351744,0.0,nested,geometry
+place,3982348,Wayne Lakes,C1,47,nested,3903753732,3903753732,0.0,nested,geometry
+place,3982376,Waynesburg,C1,47,nested,3915170436,3915170436,0.0,nested,geometry
+place,3982390,Waynesfield,C1,47,nested,3901182054,3901182054,0.0,nested,geometry
+place,3982418,Waynesville,C1,47,nested,3916582306,3916582306,0.0,nested,geometry
+place,3982642,Wellington,C1,47,nested,3909382656,3909382656,0.0,nested,geometry
+place,3982712,Wellston,C2,25,cross,,3907950624,0.9999999999999998,cross,non_nested
+place,3982740,Wellsville,C2,47,cross,,3908170086,0.9999999999999979,cross,non_nested
+place,3982880,West Alexandria,C1,47,cross,,3913577994,0.4240210310092004,cross,non_nested
+place,3983090,West Carrollton,C2,25,cross,,,1.0,cross,non_nested
+place,3983216,West Elkton,C1,47,nested,3913531486,3913531486,0.0,nested,geometry
+place,3983342,Westerville,C6,25,cross,,3904129694,0.9982671322316227,cross,non_nested
+place,3983384,West Farmington,C1,47,nested,3915526684,3915526684,0.0,nested,geometry
+place,3983468,Westfield Center,C5,47,cross,,,1.0,cross,non_nested
+place,3983580,West Jefferson,C1,47,nested,3909738696,3909738696,0.11159026886897355,cross,population
+place,3983608,West Lafayette,C1,47,nested,3903141132,3903141132,0.0,nested,geometry
+place,3983622,Westlake,C2,25,cross,,,1.0,cross,non_nested
+place,3983706,West Leipsic,C1,47,nested,3913743288,3913743288,0.0,nested,geometry
+place,3983734,West Liberty,C1,47,nested,3909143246,3909143246,0.006245020191366578,cross,population
+place,3983804,West Manchester,C1,47,nested,3913551548,3913551548,0.0,nested,geometry
+place,3983818,West Mansfield,C1,47,cross,,3909107552,0.23868218561205426,cross,non_nested
+place,3983888,West Millgrove,C1,47,nested,3917362106,3917362106,0.0,nested,geometry
+place,3983902,West Milton,C1,47,nested,3910978456,3910978456,0.0,nested,geometry
+place,3983972,Weston,C1,47,nested,3917383986,3917383986,0.0016344470866382103,cross,population
+place,3984182,West Rushville,C1,47,nested,3904566684,3904566684,0.0,nested,geometry
+place,3984196,West Salem,C1,47,nested,3916918322,3916918322,0.0,nested,geometry
+place,3984294,West Union,C1,47,cross,,3900176768,0.004521274964607139,cross,non_nested
+place,3984308,West Unity,C1,47,nested,3917108140,3917108140,0.0,nested,geometry
+place,3984574,Wharton,C1,47,nested,3917566782,3917566782,0.0,nested,geometry
+place,3984742,Whitehall,C2,25,cross,,,1.0,cross,non_nested
+place,3984770,Whitehouse,C1,47,nested,3909581872,3909581872,0.03190078817408463,cross,population
+place,3985036,Wickliffe,C2,25,cross,,,1.0,cross,non_nested
+place,3985190,Wilkesville,C1,47,nested,3916385204,3916385204,0.0,nested,geometry
+place,3985232,Willard,C2,25,cross,,,1.0,cross,non_nested
+place,3985288,Williamsburg,C1,47,nested,3902585302,3902585302,0.0,nested,geometry
+place,3985414,Williamsport,C1,47,nested,3912921168,3912921168,0.0,nested,geometry
+place,3985484,Willoughby,C2,25,cross,,,1.0,cross,non_nested
+place,3985512,Willoughby Hills,C2,25,cross,,,1.0,cross,non_nested
+place,3985638,Willowick,C2,25,cross,,,1.0,cross,non_nested
+place,3985736,Willshire,C1,47,nested,3916185750,3916185750,0.0,nested,geometry
+place,3985792,Wilmington,C5,25,cross,,3902778302,0.9999999999999993,cross,non_nested
+place,3985806,Wilmot,C1,47,nested,3915175208,3915175208,0.0,nested,geometry
+place,3985834,Wilson,C1,47,cross,,3911175686,0.4107211584074606,cross,non_nested
+place,3985876,Winchester,C1,47,nested,3900185890,3900185890,0.0,nested,geometry
+place,3985946,Windham,C2,47,cross,,3913385960,0.9999999999999994,cross,non_nested
+place,3986184,Wintersville,C1,47,cross,,3908137534,0.4961347008628747,cross,non_nested
+place,3986366,Woodlawn,C2,47,cross,,,1.0,cross,non_nested
+place,3986394,Woodmere,C2,47,cross,,,1.0,cross,non_nested
+place,3986436,Woodsfield,C1,47,nested,3911112966,3911112966,0.0,nested,geometry
+place,3986478,Woodstock,C1,47,nested,3902169078,3902169078,0.0,nested,geometry
+place,3986492,Woodville,C1,47,nested,3914386506,3914386506,0.0,nested,geometry
+place,3986548,Wooster,C2,25,cross,,,1.0,cross,non_nested
+place,3986604,Worthington,C1,25,nested,3904971787,3904971787,0.0,nested,geometry
+place,3986632,Wren,C1,47,nested,3916185750,3916185750,0.0,nested,geometry
+place,3986730,Wyoming,C2,25,cross,,3906174121,0.9999999999999999,cross,non_nested
+place,3986772,Xenia,C2,25,cross,,3905775201,0.9999999999999971,cross,non_nested
+place,3986856,Yankee Lake,C1,47,nested,3915509190,3915509190,0.0,nested,geometry
+place,3986940,Yellow Springs,C1,47,nested,3905749336,3905749336,0.0,nested,geometry
+place,3987164,Yorkshire,C1,47,nested,3903761168,3903761168,0.0,nested,geometry
+place,3987178,Yorkville,C1,47,cross,,3901361378,0.3346781722252324,cross,non_nested
+place,3988000,Youngstown,C5,25,cross,,,1.0,cross,non_nested
+place,3988028,Zaleski,C1,47,nested,3916346620,3916346620,0.0,nested,geometry
+place,3988070,Zanesfield,C1,47,nested,3909138682,3909138682,0.0,nested,geometry
+place,3988084,Zanesville,C5,25,cross,,3911982236,0.9999999999999994,cross,non_nested
+place,3988168,Zoar,C1,47,nested,3915742182,3915742182,0.0,nested,geometry
+township,3900108350,Bratton,T1,44,township,,,,,
+township,3900109722,Brush Creek,T1,44,township,,,,,
+township,3900128196,Franklin,T1,44,township,,,,,
+township,3900131668,Green,T1,44,township,,,,,
+township,3900138486,Jefferson,T1,44,township,,,,,
+township,3900143036,Liberty,T1,44,township,,,,,
+township,3900147026,Manchester,T1,44,township,,,,,
+township,3900148888,Meigs,T1,44,township,,,,,
+township,3900151268,Monroe,T1,44,township,,,,,
+township,3900158366,Oliver,T1,44,township,,,,,
+township,3900171052,Scott,T1,44,township,,,,,
+township,3900174069,Sprigg,T1,44,township,,,,,
+township,3900176768,Tiffin,T1,44,township,,,,,
+township,3900182012,Wayne,T1,44,township,,,,,
+township,3900185890,Winchester,T1,44,township,,,,,
+township,3900301602,Amanda,T1,44,township,,,,,
+township,3900301756,American,T1,44,township,,,,,
+township,3900302988,Auglaize,T1,44,township,,,,,
+township,3900304206,Bath,T1,44,township,,,,,
+township,3900337646,Jackson,T1,44,township,,,,,
+township,3900347656,Marion,T1,44,township,,,,,
+township,3900351282,Monroe,T1,44,township,,,,,
+township,3900361742,Perry,T1,44,township,,,,,
+township,3900366614,Richland,T1,44,township,,,,,
+township,3900371955,Shawnee,T1,44,township,,,,,
+township,3900373982,Spencer,T1,44,township,,,,,
+township,3900375199,Sugar Creek,T1,44,township,,,,,
+township,3900515672,Clear Creek,T1,44,township,,,,,
+township,3900531682,Green,T1,44,township,,,,,
+township,3900533236,Hanover,T1,44,township,,,,,
+township,3900537660,Jackson,T1,44,township,,,,,
+township,3900541272,Lake,T1,44,township,,,,,
+township,3900550050,Mifflin,T1,44,township,,,,,
+township,3900550610,Milton,T1,44,township,,,,,
+township,3900551086,Mohican,T1,44,township,,,,,
+township,3900551688,Montgomery,T1,44,township,,,,,
+township,3900558562,Orange,T1,44,township,,,,,
+township,3900561756,Perry,T1,44,township,,,,,
+township,3900568966,Ruggles,T1,44,township,,,,,
+township,3900575357,Sullivan,T1,44,township,,,,,
+township,3900577532,Troy,T1,44,township,,,,,
+township,3900579758,Vermillion,T1,44,township,,,,,
+township,3900702064,Andover,T1,44,township,,,,,
+township,3900702652,Ashtabula,T1,44,township,,,,,
+township,3900703156,Austinburg,T1,44,township,,,,,
+township,3900713890,Cherry Valley,T1,44,township,,,,,
+township,3900716560,Colebrook,T1,44,township,,,,,
+township,3900721672,Denmark,T1,44,township,,,,,
+township,3900722344,Dorset,T1,44,township,,,,,
+township,3900729624,Geneva,T1,44,township,,,,,
+township,3900733642,Harpersfield,T1,44,township,,,,,
+township,3900734300,Hartsgrove,T1,44,township,,,,,
+township,3900738514,Jefferson,T1,44,township,,,,,
+township,3900740404,Kingsville,T1,44,township,,,,,
+township,3900742742,Lenox,T1,44,township,,,,,
+township,3900751296,Monroe,T1,44,township,,,,,
+township,3900752066,Morgan,T1,44,township,,,,,
+township,3900754964,New Lyme,T1,44,township,,,,,
+township,3900758870,Orwell,T1,44,township,,,,,
+township,3900762568,Pierpont,T1,44,township,,,,,
+township,3900763772,Plymouth,T1,44,township,,,,,
+township,3900766796,Richmond,T1,44,township,,,,,
+township,3900768224,Rome,T1,44,township,,,,,
+township,3900770646,Saybrook,T1,44,township,,,,,
+township,3900772053,Sheffield,T1,44,township,,,,,
+township,3900777686,Trumbull,T1,44,township,,,,,
+township,3900782040,Wayne,T1,44,township,,,,,
+township,3900785372,Williamsfield,T1,44,township,,,,,
+township,3900785988,Windsor,T1,44,township,,,,,
+township,3900901112,Alexander,T1,44,township,,,,,
+township,3900901770,Ames,T1,44,township,,,,,
+township,3900902750,Athens,T1,44,township,,,,,
+township,3900905942,Bern,T1,44,township,,,,,
+township,3900911220,Canaan,T1,44,township,,,,,
+township,3900912336,Carthage,T1,44,township,,,,,
+township,3900922414,Dover,T1,44,township,,,,,
+township,3900942420,Lee,T1,44,township,,,,,
+township,3900944590,Lodi,T1,44,township,,,,,
+township,3900968238,Rome,T1,44,township,,,,,
+township,3900977420,Trimble,T1,44,township,,,,,
+township,3900977546,Troy,T1,44,township,,,,,
+township,3900981777,Waterloo,T1,44,township,,,,,
+township,3900986982,York,T1,44,township,,,,,
+township,3901115448,Clay,T1,44,township,,,,,
+township,3901122722,Duchouquet,T1,44,township,,,,,
+township,3901129848,German,T1,44,township,,,,,
+township,3901130954,Goshen,T1,44,township,,,,,
+township,3901137674,Jackson,T1,44,township,,,,,
+township,3901144618,Logan,T1,44,township,,,,,
+township,3901152472,Moulton,T1,44,township,,,,,
+township,3901155986,Noble,T1,44,township,,,,,
+township,3901165018,Pusheta,T1,44,township,,,,,
+township,3901169694,St. Marys,T1,44,township,,,,,
+township,3901169806,Salem,T1,44,township,,,,,
+township,3901178204,Union,T1,44,township,,,,,
+township,3901181074,Washington,T1,44,township,,,,,
+township,3901182054,Wayne,T1,44,township,,,,,
+township,3901316602,Colerain,T1,44,township,,,,,
+township,3901327566,Flushing,T1,44,township,,,,,
+township,3901330968,Goshen,T1,44,township,,,,,
+township,3901340600,Kirkwood,T1,44,township,,,,,
+township,3901348580,Mead,T1,44,township,,,,,
+township,3901361378,Pease,T1,44,township,,,,,
+township,3901364962,Pultney,T1,44,township,,,,,
+township,3901366628,Richland,T1,44,township,,,,,
+township,3901372736,Smith,T1,44,township,,,,,
+township,3901372970,Somerset,T1,44,township,,,,,
+township,3901378218,Union,T1,44,township,,,,,
+township,3901380864,Warren,T1,44,township,,,,,
+township,3901381088,Washington,T1,44,township,,,,,
+township,3901382068,Wayne,T1,44,township,,,,,
+township,3901384602,Wheeling,T1,44,township,,,,,
+township,3901386996,York,T1,44,township,,,,,
+township,3901510758,Byrd,T1,44,township,,,,,
+township,3901515224,Clark,T1,44,township,,,,,
+township,3901523072,Eagle,T1,44,township,,,,,
+township,3901528210,Franklin,T1,44,township,,,,,
+township,3901531696,Green,T1,44,township,,,,,
+township,3901536834,Huntington,T1,44,township,,,,,
+township,3901537688,Jackson,T1,44,township,,,,,
+township,3901538528,Jefferson,T1,44,township,,,,,
+township,3901542910,Lewis,T1,44,township,,,,,
+township,3901561770,Perry,T1,44,township,,,,,
+township,3901562596,Pike,T1,44,township,,,,,
+township,3901563212,Pleasant,T1,44,township,,,,,
+township,3901571066,Scott,T1,44,township,,,,,
+township,3901574559,Sterling,T1,44,township,,,,,
+township,3901578232,Union,T1,44,township,,,,,
+township,3901581102,Washington,T1,44,township,,,,,
+township,3901725984,Fairfield,T1,44,township,,,,,
+township,3901733250,Hanover,T1,44,township,,,,,
+township,3901742672,Lemon,T1,44,township,,,,,
+township,3901743050,Liberty,T1,44,township,,,,,
+township,3901746340,Madison,T1,44,township,,,,,
+township,3901750162,Milford,T1,44,township,,,,,
+township,3901752080,Morgan,T1,44,township,,,,,
+township,3901759241,Oxford,T1,44,township,,,,,
+township,3901766096,Reily,T1,44,township,,,,,
+township,3901768616,Ross,T1,44,township,,,,,
+township,3901769498,St. Clair,T1,44,township,,,,,
+township,3901782082,Wayne,T1,44,township,,,,,
+township,3901783150,West Chester,T1,44,township,,,,,
+township,3901903030,Augusta,T1,44,township,,,,,
+township,3901909400,Brown,T1,44,township,,,,,
+township,3901912896,Center,T1,44,township,,,,,
+township,3901923226,East,T1,44,township,,,,,
+township,3901928126,Fox,T1,44,township,,,,,
+township,3901933782,Harrison,T1,44,township,,,,,
+township,3901942434,Lee,T1,44,township,,,,,
+township,3901945038,Loudon,T1,44,township,,,,,
+township,3901951324,Monroe,T1,44,township,,,,,
+township,3901958576,Orange,T1,44,township,,,,,
+township,3901961784,Perry,T1,44,township,,,,,
+township,3901968420,Rose,T1,44,township,,,,,
+township,3901978260,Union,T1,44,township,,,,,
+township,3901981116,Washington,T1,44,township,,,,,
+township,3902100212,Adams,T1,44,township,,,,,
+township,3902118126,Concord,T1,44,township,,,,,
+township,3902130982,Goshen,T1,44,township,,,,,
+township,3902133796,Harrison,T1,44,township,,,,,
+township,3902137702,Jackson,T1,44,township,,,,,
+township,3902139228,Johnson,T1,44,township,,,,,
+township,3902146760,Mad River,T1,44,township,,,,,
+township,3902169078,Rush,T1,44,township,,,,,
+township,3902169820,Salem,T1,44,township,,,,,
+township,3902178274,Union,T1,44,township,,,,,
+township,3902179086,Urbana,T1,44,township,,,,,
+township,3902182096,Wayne,T1,44,township,,,,,
+township,3902306054,Bethel,T1,44,township,,,,,
+township,3902329862,German,T1,44,township,,,,,
+township,3902331703,Green,T1,44,township,,,,,
+township,3902333586,Harmony,T1,44,township,,,,,
+township,3902346354,Madison,T1,44,township,,,,,
+township,3902346788,Mad River,T1,44,township,,,,,
+township,3902351912,Moorefield,T1,44,township,,,,,
+township,3902362610,Pike,T1,44,township,,,,,
+township,3902363226,Pleasant,T1,44,township,,,,,
+township,3902374119,Springfield,T1,44,township,,,,,
+township,3902504157,Batavia,T1,44,township,,,,,
+township,3902528224,Franklin,T1,44,township,,,,,
+township,3902531010,Goshen,T1,44,township,,,,,
+township,3902537716,Jackson,T1,44,township,,,,,
+township,3902549322,Miami,T1,44,township,,,,,
+township,3902551338,Monroe,T1,44,township,,,,,
+township,3902557960,Ohio,T1,44,township,,,,,
+township,3902562540,Pierce,T1,44,township,,,,,
+township,3902574825,Stonelick,T1,44,township,,,,,
+township,3902576155,Tate,T1,44,township,,,,,
+township,3902578288,Union,T1,44,township,,,,,
+township,3902581130,Washington,T1,44,township,,,,,
+township,3902582110,Wayne,T1,44,township,,,,,
+township,3902585302,Williamsburg,T1,44,township,,,,,
+township,3902700226,Adams,T1,44,township,,,,,
+township,3902713974,Chester,T1,44,township,,,,,
+township,3902715238,Clark,T1,44,township,,,,,
+township,3902731710,Green,T1,44,township,,,,,
+township,3902738542,Jefferson,T1,44,township,,,,,
+township,3902743064,Liberty,T1,44,township,,,,,
+township,3902747670,Marion,T1,44,township,,,,,
+township,3902766642,Richland,T1,44,township,,,,,
+township,3902778302,Union,T1,44,township,,,,,
+township,3902779772,Vernon,T1,44,township,,,,,
+township,3902781144,Washington,T1,44,township,,,,,
+township,3902782124,Wayne,T1,44,township,,,,,
+township,3902785820,Wilson,T1,44,township,,,,,
+township,3902910562,Butler,T1,44,township,,,,,
+township,3902912910,Center,T1,44,township,,,,,
+township,3902924906,Elkrun,T1,44,township,,,,,
+township,3902925998,Fairfield,T1,44,township,,,,,
+township,3902928238,Franklin,T1,44,township,,,,,
+township,3902933264,Hanover,T1,44,township,,,,,
+township,3902940824,Knox,T1,44,township,,,,,
+township,3902944226,Liverpool,T1,44,township,,,,,
+township,3902946368,Madison,T1,44,township,,,,,
+township,3902949784,Middleton,T1,44,township,,,,,
+township,3902961798,Perry,T1,44,township,,,,,
+township,3902969512,St. Clair,T1,44,township,,,,,
+township,3902969848,Salem,T1,44,township,,,,,
+township,3902978890,Unity,T1,44,township,,,,,
+township,3902981158,Washington,T1,44,township,,,,,
+township,3902982138,Wayne,T1,44,township,,,,,
+township,3902982852,West,T1,44,township,,,,,
+township,3902986912,Yellow Creek,T1,44,township,,,,,
+township,3903100240,Adams,T1,44,township,,,,,
+township,3903104864,Bedford,T1,44,township,,,,,
+township,3903106152,Bethlehem,T1,44,township,,,,,
+township,3903115266,Clark,T1,44,township,,,,,
+township,3903119218,Crawford,T1,44,township,,,,,
+township,3903128252,Franklin,T1,44,township,,,,,
+township,3903137730,Jackson,T1,44,township,,,,,
+township,3903138556,Jefferson,T1,44,township,,,,,
+township,3903139634,Keene,T1,44,township,,,,,
+township,3903141132,Lafayette,T1,44,township,,,,,
+township,3903143960,Linton,T1,44,township,,,,,
+township,3903150274,Mill Creek,T1,44,township,,,,,
+township,3903151352,Monroe,T1,44,township,,,,,
+township,3903154376,Newcastle,T1,44,township,,,,,
+township,3903159248,Oxford,T1,44,township,,,,,
+township,3903161812,Perry,T1,44,township,,,,,
+township,3903162624,Pike,T1,44,township,,,,,
+township,3903176953,Tiverton,T1,44,township,,,,,
+township,3903177896,Tuscarawas,T1,44,township,,,,,
+township,3903180220,Virginia,T1,44,township,,,,,
+township,3903181172,Washington,T1,44,township,,,,,
+township,3903184714,White Eyes,T1,44,township,,,,,
+township,3903302890,Auburn,T1,44,township,,,,,
+township,3903310044,Bucyrus,T1,44,township,,,,,
+township,3903313708,Chatfield,T1,44,township,,,,,
+township,3903319134,Cranberry,T1,44,township,,,,,
+township,3903319932,Dallas,T1,44,township,,,,,
+township,3903335980,Holmes,T1,44,township,,,,,
+township,3903337744,Jackson,T1,44,township,,,,,
+township,3903338570,Jefferson,T1,44,township,,,,,
+township,3903343078,Liberty,T1,44,township,,,,,
+township,3903345500,Lykens,T1,44,township,,,,,
+township,3903364010,Polk,T1,44,township,,,,,
+township,3903370366,Sandusky,T1,44,township,,,,,
+township,3903376463,Texas,T1,44,township,,,,,
+township,3903376967,Tod,T1,44,township,,,,,
+township,3903379786,Vernon,T1,44,township,,,,,
+township,3903384644,Whetstone,T1,44,township,,,,,
+township,3903513372,Chagrin Falls,T1,44,township,,,,,
+township,3903558408,Olmsted,T1,44,township,,,,,
+township,3903700254,Adams,T1,44,township,,,,,
+township,3903701294,Allen,T1,44,township,,,,,
+township,3903709414,Brown,T1,44,township,,,,,
+township,3903710576,Butler,T1,44,township,,,,,
+township,3903728266,Franklin,T1,44,township,,,,,
+township,3903732354,Greenville,T1,44,township,,,,,
+township,3903733810,Harrison,T1,44,township,,,,,
+township,3903737758,Jackson,T1,44,township,,,,,
+township,3903743092,Liberty,T1,44,township,,,,,
+township,3903750960,Mississinawa,T1,44,township,,,,,
+township,3903751366,Monroe,T1,44,township,,,,,
+township,3903753732,Neave,T1,44,township,,,,,
+township,3903761168,Patterson,T1,44,township,,,,,
+township,3903766656,Richland,T1,44,township,,,,,
+township,3903777980,Twin,T1,44,township,,,,,
+township,3903779380,Van Buren,T1,44,township,,,,,
+township,3903780248,Wabash,T1,44,township,,,,,
+township,3903781186,Washington,T1,44,township,,,,,
+township,3903782152,Wayne,T1,44,township,,,,,
+township,3903787010,York,T1,44,township,,,,,
+township,3903900268,Adams,T1,44,township,,,,,
+township,3903921322,Defiance,T1,44,township,,,,,
+township,3903921420,Delaware,T1,44,township,,,,,
+township,3903926614,Farmer,T1,44,township,,,,,
+township,3903935112,Hicksville,T1,44,township,,,,,
+township,3903935196,Highland,T1,44,township,,,,,
+township,3903947852,Mark,T1,44,township,,,,,
+township,3903950190,Milford,T1,44,township,,,,,
+township,3903956014,Noble,T1,44,township,,,,,
+township,3903966670,Richland,T1,44,township,,,,,
+township,3903976772,Tiffin,T1,44,township,,,,,
+township,3903981200,Washington,T1,44,township,,,,,
+township,3904105774,Berkshire,T1,44,township,,,,,
+township,3904105788,Berlin,T1,44,township,,,,,
+township,3904109428,Brown,T1,44,township,,,,,
+township,3904118140,Concord,T1,44,township,,,,,
+township,3904121448,Delaware,T1,44,township,,,,,
+township,3904129694,Genoa,T1,44,township,,,,,
+township,3904133516,Harlem,T1,44,township,,,,,
+township,3904140362,Kingston,T1,44,township,,,,,
+township,3904143106,Liberty,T1,44,township,,,,,
+township,3904147908,Marlboro,T1,44,township,,,,,
+township,3904158618,Orange,T1,44,township,,,,,
+township,3904159262,Oxford,T1,44,township,,,,,
+township,3904164178,Porter,T1,44,township,,,,,
+township,3904165312,Radnor,T1,44,township,,,,,
+township,3904170842,Scioto,T1,44,township,,,,,
+township,3904176617,Thompson,T1,44,township,,,,,
+township,3904177336,Trenton,T1,44,township,,,,,
+township,3904177560,Troy,T1,44,township,,,,,
+township,3904181242,Washington,T5,44,township,,,,,
+township,3904305802,Berlin,T1,44,township,,,,,
+township,3904327482,Florence,T1,44,township,,,,,
+township,3904332578,Groton,T1,44,township,,,,,
+township,3904337030,Huron,T1,44,township,,,,,
+township,3904347572,Margaretta,T1,44,township,,,,,
+township,3904350148,Milan,T1,44,township,,,,,
+township,3904359276,Oxford,T1,44,township,,,,,
+township,3904361714,Perkins,T1,44,township,,,,,
+township,3904379730,Vermilion,T1,44,township,,,,,
+township,3904501637,Amanda,T1,44,township,,,,,
+township,3904505956,Berne,T1,44,township,,,,,
+township,3904506950,Bloom,T1,44,township,,,,,
+township,3904515686,Clearcreek,T1,44,township,,,,,
+township,3904532060,Greenfield,T1,44,township,,,,,
+township,3904535812,Hocking,T1,44,township,,,,,
+township,3904543120,Liberty,T1,44,township,,,,,
+township,3904546382,Madison,T1,44,township,,,,,
+township,3904563240,Pleasant,T1,44,township,,,,,
+township,3904566684,Richland,T1,44,township,,,,,
+township,3904569120,Rush Creek,T1,44,township,,,,,
+township,3904580206,Violet,T1,44,township,,,,,
+township,3904580570,Walnut,T1,44,township,,,,,
+township,3904718154,Concord,T1,44,township,,,,,
+township,3904731724,Green,T1,44,township,,,,,
+township,3904738388,Jasper,T1,44,township,,,,,
+township,3904738598,Jefferson,T1,44,township,,,,,
+township,3904746396,Madison,T1,44,township,,,,,
+township,3904747684,Marion,T1,44,township,,,,,
+township,3904759486,Paint,T1,44,township,,,,,
+township,3904761826,Perry,T1,44,township,,,,,
+township,3904778316,Union,T1,44,township,,,,,
+township,3904782166,Wayne,T1,44,township,,,,,
+township,3904906922,Blendon,T1,44,township,,,,,
+township,3904909442,Brown,T1,44,township,,,,,
+township,3904916112,Clinton,T1,44,township,,,,,
+township,3904928280,Franklin,T1,44,township,,,,,
+township,3904933026,Hamilton,T1,44,township,,,,,
+township,3904937772,Jackson,T1,44,township,,,,,
+township,3904938612,Jefferson,T1,44,township,,,,,
+township,3904946410,Madison,T1,44,township,,,,,
+township,3904950064,Mifflin,T1,44,township,,,,,
+township,3904957344,Norwich,T1,44,township,,,,,
+township,3904961840,Perry,T1,44,township,,,,,
+township,3904962974,Plain,T1,44,township,,,,,
+township,3904963254,Pleasant,T1,44,township,,,,,
+township,3904964570,Prairie,T1,44,township,,,,,
+township,3904971787,Sharon,T1,44,township,,,,,
+township,3904977714,Truro,T1,44,township,,,,,
+township,3904981242,Washington,T1,44,township,,,,,
+township,3905101728,Amboy,T1,44,township,,,,,
+township,3905114072,Chesterfield,T1,44,township,,,,,
+township,3905116126,Clinton,T1,44,township,,,,,
+township,3905122442,Dover,T1,44,township,,,,,
+township,3905128294,Franklin,T1,44,township,,,,,
+township,3905129036,Fulton,T1,44,township,,,,,
+township,3905129876,German,T1,44,township,,,,,
+township,3905130940,Gorham,T1,44,township,,,,,
+township,3905162638,Pike,T1,44,township,,,,,
+township,3905168896,Royalton,T1,44,township,,,,,
+township,3905175861,Swan Creek,T1,44,township,,,,,
+township,3905187024,York,T1,44,township,,,,,
+township,3905300422,Addison,T1,44,township,,,,,
+township,3905313946,Cheshire,T1,44,township,,,,,
+township,3905315462,Clay,T1,44,township,,,,,
+township,3905329218,Gallipolis,T1,44,township,,,,,
+township,3905331738,Green,T1,44,township,,,,,
+township,3905332074,Greenfield,T1,44,township,,,,,
+township,3905332760,Guyan,T1,44,township,,,,,
+township,3905333824,Harrison,T1,44,township,,,,,
+township,3905336848,Huntington,T1,44,township,,,,,
+township,3905352094,Morgan,T1,44,township,,,,,
+township,3905357974,Ohio,T1,44,township,,,,,
+township,3905361854,Perry,T1,44,township,,,,,
+township,3905365228,Raccoon,T1,44,township,,,,,
+township,3905374120,Springfield,T1,44,township,,,,,
+township,3905380584,Walnut,T1,44,township,,,,,
+township,3905502904,Auburn,T1,44,township,,,,,
+township,3905503590,Bainbridge,T1,44,township,,,,,
+township,3905510464,Burton,T1,44,township,,,,,
+township,3905513561,Chardon,T1,44,township,,,,,
+township,3905513988,Chester,T1,44,township,,,,,
+township,3905515168,Claridon,T1,44,township,,,,,
+township,3905532914,Hambden,T1,44,township,,,,,
+township,3905536946,Huntsburg,T1,44,township,,,,,
+township,3905549714,Middlefield,T1,44,township,,,,,
+township,3905551842,Montville,T1,44,township,,,,,
+township,3905553340,Munson,T1,44,township,,,,,
+township,3905554292,Newbury,T1,44,township,,,,,
+township,3905559948,Parkman,T1,44,township,,,,,
+township,3905569232,Russell,T1,44,township,,,,,
+township,3905576628,Thompson,T1,44,township,,,,,
+township,3905577574,Troy,T1,44,township,,,,,
+township,3905704220,Bath,T1,44,township,,,,,
+township,3905704724,Beavercreek,T1,44,township,,,,,
+township,3905710856,Caesarscreek,T1,44,township,,,,,
+township,3905712798,Cedarville,T1,44,township,,,,,
+township,3905738626,Jefferson,T1,44,township,,,,,
+township,3905749336,Miami,T1,44,township,,,,,
+township,3905754810,New Jasper,T1,44,township,,,,,
+township,3905768630,Ross,T1,44,township,,,,,
+township,3905772473,Silvercreek,T1,44,township,,,,,
+township,3905774223,Spring Valley,T1,44,township,,,,,
+township,3905775201,Sugarcreek,T1,44,township,,,,,
+township,3905786786,Xenia,T1,44,township,,,,,
+township,3905900282,Adams,T1,44,township,,,,,
+township,3905911003,Cambridge,T1,44,township,,,,,
+township,3905912938,Center,T1,44,township,,,,,
+township,3905937786,Jackson,T1,44,township,,,,,
+township,3905938640,Jefferson,T1,44,township,,,,,
+township,3905940838,Knox,T1,44,township,,,,,
+township,3905943134,Liberty,T1,44,township,,,,,
+township,3905944716,Londonderry,T1,44,township,,,,,
+township,3905946424,Madison,T1,44,township,,,,,
+township,3905950568,Millwood,T1,44,township,,,,,
+township,3905951380,Monroe,T1,44,township,,,,,
+township,3905959290,Oxford,T1,44,township,,,,,
+township,3905966698,Richland,T1,44,township,,,,,
+township,3905973986,Spencer,T1,44,township,,,,,
+township,3905979156,Valley,T1,44,township,,,,,
+township,3905981256,Washington,T1,44,township,,,,,
+township,3905983664,Westland,T1,44,township,,,,,
+township,3905984616,Wheeling,T1,44,township,,,,,
+township,3905985708,Wills,T1,44,township,,,,,
+township,3906101980,Anderson,T1,44,township,,,,,
+township,3906116616,Colerain,T1,44,township,,,,,
+township,3906116882,Columbia,T1,44,township,,,,,
+township,3906119470,Crosby,T1,44,township,,,,,
+township,3906121504,Delhi,T1,44,township,,,,,
+township,3906131752,Green,T1,44,township,,,,,
+township,3906133852,Harrison,T1,44,township,,,,,
+township,3906149364,Miami,T1,44,township,,,,,
+township,3906174121,Springfield,T1,44,township,,,,,
+township,3906175973,Sycamore,T1,44,township,,,,,
+township,3906176028,Symmes,T1,44,township,,,,,
+township,3906184938,Whitewater,T1,44,township,,,,,
+township,3906301308,Allen,T1,44,township,,,,,
+township,3906301644,Amanda,T1,44,township,,,,,
+township,3906306362,Biglick,T1,44,township,,,,,
+township,3906306838,Blanchard,T1,44,township,,,,,
+township,3906312392,Cass,T1,44,township,,,,,
+township,3906321462,Delaware,T1,44,township,,,,,
+township,3906323086,Eagle,T1,44,township,,,,,
+township,3906337800,Jackson,T1,44,township,,,,,
+township,3906343148,Liberty,T1,44,township,,,,,
+township,3906346438,Madison,T1,44,township,,,,,
+township,3906347698,Marion,T1,44,township,,,,,
+township,3906358632,Orange,T1,44,township,,,,,
+township,3906363268,Pleasant,T1,44,township,,,,,
+township,3906364066,Portage,T1,44,township,,,,,
+township,3906378330,Union,T1,44,township,,,,,
+township,3906379408,Van Buren,T1,44,township,,,,,
+township,3906381284,Washington,T1,44,township,,,,,
+township,3906506866,Blanchard,T1,44,township,,,,,
+township,3906509848,Buck,T1,44,township,,,,,
+township,3906513316,Cessna,T1,44,township,,,,,
+township,3906522736,Dudley,T1,44,township,,,,,
+township,3906531024,Goshen,T1,44,township,,,,,
+township,3906532837,Hale,T1,44,township,,,,,
+township,3906537814,Jackson,T1,44,township,,,,,
+township,3906543162,Liberty,T1,44,township,,,,,
+township,3906545598,Lynn,T1,44,township,,,,,
+township,3906545920,McDonald,T1,44,township,,,,,
+township,3906547712,Marion,T1,44,township,,,,,
+township,3906563282,Pleasant,T1,44,township,,,,,
+township,3906568784,Roundhead,T1,44,township,,,,,
+township,3906576198,Taylor Creek,T1,44,township,,,,,
+township,3906581298,Washington,T1,44,township,,,,,
+township,3906702358,Archer,T1,44,township,,,,,
+township,3906702764,Athens,T1,44,township,,,,,
+township,3906710814,Cadiz,T1,44,township,,,,,
+township,3906728308,Franklin,T1,44,township,,,,,
+township,3906728812,Freeport,T1,44,township,,,,,
+township,3906729890,German,T1,44,township,,,,,
+township,3906731766,Green,T1,44,township,,,,,
+township,3906751394,Monroe,T1,44,township,,,,,
+township,3906751940,Moorefield,T1,44,township,,,,,
+township,3906756084,North,T1,44,township,,,,,
+township,3906757456,Nottingham,T1,44,township,,,,,
+township,3906768994,Rumley,T1,44,township,,,,,
+township,3906772361,Short Creek,T1,44,township,,,,,
+township,3906774724,Stock,T1,44,township,,,,,
+township,3906781312,Washington,T1,44,township,,,,,
+township,3906904052,Bartlow,T1,44,township,,,,,
+township,3906920016,Damascus,T1,44,township,,,,,
+township,3906927342,Flatrock,T1,44,township,,,,,
+township,3906928700,Freedom,T1,44,township,,,,,
+township,3906933866,Harrison,T1,44,township,,,,,
+township,3906943176,Liberty,T1,44,township,,,,,
+township,3906947726,Marion,T1,44,township,,,,,
+township,3906951408,Monroe,T1,44,township,,,,,
+township,3906953564,Napoleon,T1,44,township,,,,,
+township,3906963296,Pleasant,T1,44,township,,,,,
+township,3906966502,Richfield,T1,44,township,,,,,
+township,3906967062,Ridgeville,T1,44,township,,,,,
+township,3906981326,Washington,T1,44,township,,,,,
+township,3907109736,Brushcreek,T1,44,township,,,,,
+township,3907115476,Clay,T1,44,township,,,,,
+township,3907118168,Concord,T1,44,township,,,,,
+township,3907122204,Dodson,T1,44,township,,,,,
+township,3907126026,Fairfield,T1,44,township,,,,,
+township,3907132970,Hamer,T1,44,township,,,,,
+township,3907137828,Jackson,T1,44,township,,,,,
+township,3907143190,Liberty,T1,44,township,,,,,
+township,3907146452,Madison,T1,44,township,,,,,
+township,3907148034,Marshall,T1,44,township,,,,,
+township,3907155048,New Market,T1,44,township,,,,,
+township,3907159500,Paint,T1,44,township,,,,,
+township,3907161588,Penn,T1,44,township,,,,,
+township,3907169862,Salem,T1,44,township,,,,,
+township,3907178344,Union,T1,44,township,,,,,
+township,3907181340,Washington,T1,44,township,,,,,
+township,3907184826,Whiteoak,T1,44,township,,,,,
+township,3907305578,Benton,T1,44,township,,,,,
+township,3907326488,Falls,T1,44,township,,,,,
+township,3907330842,Good Hope,T1,44,township,,,,,
+township,3907331780,Green,T1,44,township,,,,,
+township,3907342056,Laurel,T1,44,township,,,,,
+township,3907347740,Marion,T1,44,township,,,,,
+township,3907361868,Perry,T1,44,township,,,,,
+township,3907370142,Salt Creek,T1,44,township,,,,,
+township,3907374405,Starr,T1,44,township,,,,,
+township,3907380780,Ward,T1,44,township,,,,,
+township,3907381354,Washington,T1,44,township,,,,,
+township,3907505830,Berlin,T1,44,township,,,,,
+township,3907515280,Clark,T1,44,township,,,,,
+township,3907533460,Hardy,T1,44,township,,,,,
+township,3907540194,Killbuck,T1,44,township,,,,,
+township,3907540852,Knox,T1,44,township,,,,,
+township,3907548692,Mechanic,T1,44,township,,,,,
+township,3907551422,Monroe,T1,44,township,,,,,
+township,3907559514,Paint,T1,44,township,,,,,
+township,3907564584,Prairie,T1,44,township,,,,,
+township,3907566712,Richland,T1,44,township,,,,,
+township,3907567286,Ripley,T1,44,township,,,,,
+township,3907570156,Salt Creek,T1,44,township,,,,,
+township,3907580626,Walnut Creek,T1,44,township,,,,,
+township,3907581368,Washington,T1,44,township,,,,,
+township,3907709148,Bronson,T1,44,township,,,,,
+township,3907715364,Clarksfield,T1,44,township,,,,,
+township,3907726040,Fairfield,T1,44,township,,,,,
+township,3907727216,Fitchville,T1,44,township,,,,,
+township,3907732102,Greenfield,T1,44,township,,,,,
+township,3907732382,Greenwich,T1,44,township,,,,,
+township,3907734258,Hartland,T1,44,township,,,,,
+township,3907745514,Lyme,T1,44,township,,,,,
+township,3907754712,New Haven,T1,44,township,,,,,
+township,3907754922,New London,T1,44,township,,,,,
+township,3907757316,Norwalk,T1,44,township,,,,,
+township,3907757358,Norwich,T1,44,township,,,,,
+township,3907762246,Peru,T1,44,township,,,,,
+township,3907766810,Richmond,T1,44,township,,,,,
+township,3907767006,Ridgefield,T1,44,township,,,,,
+township,3907767300,Ripley,T1,44,township,,,,,
+township,3907772193,Sherman,T1,44,township,,,,,
+township,3907777158,Townsend,T1,44,township,,,,,
+township,3907780472,Wakeman,T1,44,township,,,,,
+township,3907907090,Bloomfield,T1,44,township,,,,,
+township,3907916336,Coal,T1,44,township,,,,,
+township,3907928322,Franklin,T1,44,township,,,,,
+township,3907933040,Hamilton,T1,44,township,,,,,
+township,3907937856,Jackson,T1,44,township,,,,,
+township,3907938654,Jefferson,T1,44,township,,,,,
+township,3907943204,Liberty,T1,44,township,,,,,
+township,3907943442,Lick,T1,44,township,,,,,
+township,3907946466,Madison,T1,44,township,,,,,
+township,3907950624,Milton,T1,44,township,,,,,
+township,3907970856,Scioto,T1,44,township,,,,,
+township,3907981382,Washington,T1,44,township,,,,,
+township,3908109750,Brush Creek,T1,44,township,,,,,
+township,3908119484,Cross Creek,T1,44,township,,,,,
+township,3908137534,Island Creek,T1,44,township,,,,,
+township,3908140866,Knox,T1,44,township,,,,,
+township,3908152990,Mount Pleasant,T1,44,township,,,,,
+township,3908168644,Ross,T1,44,township,,,,,
+township,3908169876,Salem,T1,44,township,,,,,
+township,3908170086,Saline,T1,44,township,,,,,
+township,3908172767,Smithfield,T1,44,township,,,,,
+township,3908174122,Springfield,T1,44,township,,,,,
+township,3908174615,Steubenville,T1,44,township,,,,,
+township,3908180878,Warren,T1,44,township,,,,,
+township,3908182180,Wayne,T1,44,township,,,,,
+township,3908182698,Wells,T1,44,township,,,,,
+township,3908305844,Berlin,T1,44,township,,,,,
+township,3908309470,Brown,T1,44,township,,,,,
+township,3908310590,Butler,T1,44,township,,,,,
+township,3908315504,Clay,T1,44,township,,,,,
+township,3908316140,Clinton,T1,44,township,,,,,
+township,3908316686,College,T1,44,township,,,,,
+township,3908333880,Harrison,T1,44,township,,,,,
+township,3908335462,Hilliar,T1,44,township,,,,,
+township,3908336526,Howard,T1,44,township,,,,,
+township,3908337870,Jackson,T1,44,township,,,,,
+township,3908338668,Jefferson,T1,44,township,,,,,
+township,3908343218,Liberty,T1,44,township,,,,,
+township,3908349658,Middlebury,T1,44,township,,,,,
+township,3908350204,Milford,T1,44,township,,,,,
+township,3908350330,Miller,T1,44,township,,,,,
+township,3908351436,Monroe,T1,44,township,,,,,
+township,3908352108,Morgan,T1,44,township,,,,,
+township,3908352290,Morris,T1,44,township,,,,,
+township,3908362652,Pike,T1,44,township,,,,,
+township,3908363310,Pleasant,T1,44,township,,,,,
+township,3908378358,Union,T1,44,township,,,,,
+township,3908382194,Wayne,T1,44,township,,,,,
+township,3908518196,Concord,T1,44,township,,,,,
+township,3908542812,Leroy,T1,44,township,,,,,
+township,3908546494,Madison,T1,44,township,,,,,
+township,3908559430,Painesville,T1,44,township,,,,,
+township,3908561896,Perry,T1,44,township,,,,,
+township,3908700562,Aid,T1,44,township,,,,,
+township,3908721084,Decatur,T1,44,township,,,,,
+township,3908724822,Elizabeth,T1,44,township,,,,,
+township,3908726782,Fayette,T1,44,township,,,,,
+township,3908733054,Hamilton,T1,44,township,,,,,
+township,3908742154,Lawrence,T1,44,township,,,,,
+township,3908748174,Mason,T1,44,township,,,,,
+township,3908761910,Perry,T1,44,township,,,,,
+township,3908768280,Rome,T1,44,township,,,,,
+township,3908776031,Symmes,T1,44,township,,,,,
+township,3908778372,Union,T1,44,township,,,,,
+township,3908778974,Upper,T1,44,township,,,,,
+township,3908781396,Washington,T1,44,township,,,,,
+township,3908786002,Windsor,T1,44,township,,,,,
+township,3908905494,Bennington,T1,44,township,,,,,
+township,3908907944,Bowling Green,T1,44,township,,,,,
+township,3908910366,Burlington,T1,44,township,,,,,
+township,3908924332,Eden,T1,44,township,,,,,
+township,3908925690,Etna,T1,44,township,,,,,
+township,3908926530,Fallsbury,T1,44,township,,,,,
+township,3908928336,Franklin,T1,44,township,,,,,
+township,3908931416,Granville,T1,44,township,,,,,
+township,3908933299,Hanover,T1,44,township,,,,,
+township,3908933894,Harrison,T1,44,township,,,,,
+township,3908934188,Hartford,T1,44,township,,,,,
+township,3908936316,Hopewell,T1,44,township,,,,,
+township,3908939102,Jersey,T1,44,township,,,,,
+township,3908943232,Liberty,T1,44,township,,,,,
+township,3908943456,Licking,T1,44,township,,,,,
+township,3908946116,McKean,T1,44,township,,,,,
+township,3908946508,Madison,T1,44,township,,,,,
+township,3908948132,Mary Ann,T1,44,township,,,,,
+township,3908951450,Monroe,T1,44,township,,,,,
+township,3908954054,Newark,T1,44,township,,,,,
+township,3908955580,Newton,T1,44,township,,,,,
+township,3908961924,Perry,T1,44,township,,,,,
+township,3908969456,St. Albans,T1,44,township,,,,,
+township,3908978400,Union,T1,44,township,,,,,
+township,3908981410,Washington,T1,44,township,,,,,
+township,3909107118,Bloomfield,T1,44,township,,,,,
+township,3909107552,Bokescreek,T1,44,township,,,,,
+township,3909133908,Harrison,T1,44,township,,,,,
+township,3909138682,Jefferson,T1,44,township,,,,,
+township,3909141286,Lake,T1,44,township,,,,,
+township,3909143246,Liberty,T1,44,township,,,,,
+township,3909145682,McArthur,T1,44,township,,,,,
+township,3909149378,Miami,T1,44,township,,,,,
+township,3909151464,Monroe,T1,44,township,,,,,
+township,3909161938,Perry,T1,44,township,,,,,
+township,3909163324,Pleasant,T1,44,township,,,,,
+township,3909166740,Richland,T1,44,township,,,,,
+township,3909169134,Rushcreek,T1,44,township,,,,,
+township,3909174780,Stokes,T1,44,township,,,,,
+township,3909178414,Union,T1,44,township,,,,,
+township,3909181424,Washington,T1,44,township,,,,,
+township,3909188042,Zane,T1,44,township,,,,,
+township,3909301812,Amherst,T1,44,township,,,,,
+township,3909308770,Brighton,T1,44,township,,,,,
+township,3909309568,Brownhelm,T1,44,township,,,,,
+township,3909311010,Camden,T1,44,township,,,,,
+township,3909312140,Carlisle,T1,44,township,,,,,
+township,3909316910,Columbia,T1,44,township,,,,,
+township,3909324220,Eaton,T1,44,township,,,,,
+township,3909325270,Elyria,T1,44,township,,,,,
+township,3909331164,Grafton,T1,44,township,,,,,
+township,3909334972,Henrietta,T1,44,township,,,,,
+township,3909336876,Huntington,T1,44,township,,,,,
+township,3909341244,LaGrange,T1,44,township,,,,,
+township,3909355446,New Russia,T1,44,township,,,,,
+township,3909361532,Penfield,T1,44,township,,,,,
+township,3909362960,Pittsfield,T1,44,township,,,,,
+township,3909367776,Rochester,T1,44,township,,,,,
+township,3909372067,Sheffield,T1,44,township,,,,,
+township,3909382656,Wellington,T1,44,township,,,,,
+township,3909533418,Harding,T1,44,township,,,,,
+township,3909539116,Jerusalem,T1,44,township,,,,,
+township,3909551156,Monclova,T1,44,township,,,,,
+township,3909564836,Providence,T1,44,township,,,,,
+township,3909566516,Richfield,T1,44,township,,,,,
+township,3909573990,Spencer,T1,44,township,,,,,
+township,3909574123,Springfield,T1,44,township,,,,,
+township,3909575903,Swanton,T1,44,township,,,,,
+township,3909576025,Sylvania,T1,44,township,,,,,
+township,3909581438,Washington,T1,44,township,,,,,
+township,3909581872,Waterville,T1,44,township,,,,,
+township,3909711234,Canaan,T1,44,township,,,,,
+township,3909720142,Darby,T1,44,township,,,,,
+township,3909721154,Deer Creek,T1,44,township,,,,,
+township,3909726068,Fairfield,T1,44,township,,,,,
+township,3909738696,Jefferson,T1,44,township,,,,,
+township,3909751478,Monroe,T1,44,township,,,,,
+township,3909757708,Oak Run,T1,44,township,,,,,
+township,3909759528,Paint,T1,44,township,,,,,
+township,3909762666,Pike,T1,44,township,,,,,
+township,3909763338,Pleasant,T1,44,township,,,,,
+township,3909765480,Range,T1,44,township,,,,,
+township,3909772960,Somerford,T1,44,township,,,,,
+township,3909774784,Stokes,T1,44,township,,,,,
+township,3909778428,Union,T1,44,township,,,,,
+township,3909903198,Austintown,T1,44,township,,,,,
+township,3909904668,Beaver,T1,44,township,,,,,
+township,3909905858,Berlin,T1,44,township,,,,,
+township,3909907468,Boardman,T1,44,township,,,,,
+township,3909911374,Canfield,T1,44,township,,,,,
+township,3909916476,Coitsville,T1,44,township,,,,,
+township,3909925088,Ellsworth,T1,44,township,,,,,
+township,3909925998,Fairfield,T1,44,township,,,,,
+township,3909931038,Goshen,T1,44,township,,,,,
+township,3909931794,Green,T1,44,township,,,,,
+township,3909937884,Jackson,T1,44,township,,,,,
+township,3909950638,Milton,T1,44,township,,,,,
+township,3909961798,Perry,T5,44,township,,,,,
+township,3909963968,Poland,T1,44,township,,,,,
+township,3909972740,Smith,T1,44,township,,,,,
+township,3909974124,Springfield,T1,44,township,,,,,
+township,3910106348,Big Island,T1,44,township,,,,,
+township,3910107958,Bowling Green,T1,44,township,,,,,
+township,3910115196,Claridon,T1,44,township,,,,,
+township,3910131178,Grand,T1,44,township,,,,,
+township,3910131192,Grand Prairie,T1,44,township,,,,,
+township,3910131962,Green Camp,T1,44,township,,,,,
+township,3910147768,Marion,T1,44,township,,,,,
+township,3910151730,Montgomery,T1,44,township,,,,,
+township,3910163352,Pleasant,T1,44,township,,,,,
+township,3910164794,Prospect,T1,44,township,,,,,
+township,3910166754,Richland,T1,44,township,,,,,
+township,3910170240,Salt Rock,T1,44,township,,,,,
+township,3910171073,Scott,T1,44,township,,,,,
+township,3910177742,Tully,T1,44,township,,,,,
+township,3910180514,Waldo,T1,44,township,,,,,
+township,3910309708,Brunswick Hills,T1,44,township,,,,,
+township,3910311276,Canaan,T5,44,township,,,,,
+township,3910313750,Chatham,T1,44,township,,,,,
+township,3910331374,Granger,T1,44,township,,,,,
+township,3910332676,Guilford,T1,44,township,,,,,
+township,3910334104,Harrisville,T1,44,township,,,,,
+township,3910335644,Hinckley,T1,44,township,,,,,
+township,3910336078,Homer,T1,44,township,,,,,
+township,3910341174,Lafayette,T1,44,township,,,,,
+township,3910344072,Litchfield,T1,44,township,,,,,
+township,3910344240,Liverpool,T1,44,township,,,,,
+township,3910348804,Medina,T1,44,township,,,,,
+township,3910351856,Montville,T1,44,township,,,,,
+township,3910371801,Sharon,T1,44,township,,,,,
+township,3910373999,Spencer,T1,44,township,,,,,
+township,3910380318,Wadsworth,T1,44,township,,,,,
+township,3910383426,Westfield,T1,44,township,,,,,
+township,3910387052,York,T1,44,township,,,,,
+township,3910504906,Bedford,T1,44,township,,,,,
+township,3910514016,Chester,T1,44,township,,,,,
+township,3910516924,Columbia,T1,44,township,,,,,
+township,3910542336,Lebanon,T1,44,township,,,,,
+township,3910542868,Letart,T1,44,township,,,,,
+township,3910558282,Olive,T1,44,township,,,,,
+township,3910558646,Orange,T1,44,township,,,,,
+township,3910569372,Rutland,T1,44,township,,,,,
+township,3910569904,Salem,T1,44,township,,,,,
+township,3910570114,Salisbury,T1,44,township,,,,,
+township,3910570996,Scipio,T1,44,township,,,,,
+township,3910575847,Sutton,T1,44,township,,,,,
+township,3910706586,Black Creek,T1,44,township,,,,,
+township,3910710604,Butler,T1,44,township,,,,,
+township,3910712952,Center,T1,44,township,,,,,
+township,3910722708,Dublin,T1,44,township,,,,,
+township,3910728350,Franklin,T1,44,township,,,,,
+township,3910730058,Gibson,T1,44,township,,,,,
+township,3910731430,Granville,T1,44,township,,,,,
+township,3910736344,Hopewell,T1,44,township,,,,,
+township,3910738724,Jefferson,T1,44,township,,,,,
+township,3910743260,Liberty,T1,44,township,,,,,
+township,3910747782,Marion,T1,44,township,,,,,
+township,3910765781,Recovery,T1,44,township,,,,,
+township,3910778442,Union,T1,44,township,,,,,
+township,3910781452,Washington,T1,44,township,,,,,
+township,3910906110,Bethel,T1,44,township,,,,,
+township,3910909498,Brown,T1,44,township,,,,,
+township,3910918224,Concord,T1,44,township,,,,,
+township,3910924836,Elizabeth,T1,44,township,,,,,
+township,3910944968,Lostcreek,T1,44,township,,,,,
+township,3910951492,Monroe,T1,44,township,,,,,
+township,3910954138,Newberry,T1,44,township,,,,,
+township,3910955594,Newton,T1,44,township,,,,,
+township,3910974097,Springcreek,T1,44,township,,,,,
+township,3910974475,Staunton,T1,44,township,,,,,
+township,3910978456,Union,T1,44,township,,,,,
+township,3910981466,Washington,T1,44,township,,,,,
+township,3911100296,Adams,T1,44,township,,,,,
+township,3911105606,Benton,T1,44,township,,,,,
+township,3911106124,Bethel,T1,44,township,,,,,
+township,3911112966,Center,T1,44,township,,,,,
+township,3911128357,Franklin,T1,44,township,,,,,
+township,3911131808,Green,T1,44,township,,,,,
+township,3911137898,Jackson,T1,44,township,,,,,
+township,3911142448,Lee,T1,44,township,,,,,
+township,3911146928,Malaga,T1,44,township,,,,,
+township,3911157988,Ohio,T1,44,township,,,,,
+township,3911161952,Perry,T1,44,township,,,,,
+township,3911169918,Salem,T1,44,township,,,,,
+township,3911171349,Seneca,T1,44,township,,,,,
+township,3911175497,Summit,T1,44,township,,,,,
+township,3911175686,Sunsbury,T1,44,township,,,,,
+township,3911175945,Switzerland,T1,44,township,,,,,
+township,3911181480,Washington,T1,44,township,,,,,
+township,3911182208,Wayne,T1,44,township,,,,,
+township,3911310618,Butler,T1,44,township,,,,,
+township,3911315518,Clay,T1,44,township,,,,,
+township,3911329904,German,T1,44,township,,,,,
+township,3911333922,Harrison,T1,44,township,,,,,
+township,3911337912,Jackson,T1,44,township,,,,,
+township,3911338738,Jefferson,T1,44,township,,,,,
+township,3911349392,Miami,T1,44,township,,,,,
+township,3911361966,Perry,T1,44,township,,,,,
+township,3911381494,Washington,T1,44,township,,,,,
+township,3911382222,Wayne,T9,44,township,,,,,
+township,3911506964,Bloom,T1,44,township,,,,,
+township,3911508910,Bristol,T1,44,township,,,,,
+township,3911512980,Center,T1,44,township,,,,,
+township,3911521182,Deerfield,T1,44,township,,,,,
+township,3911536092,Homer,T1,44,township,,,,,
+township,3911546984,Malta,T1,44,township,,,,,
+township,3911547040,Manchester,T1,44,township,,,,,
+township,3911547796,Marion,T1,44,township,,,,,
+township,3911548930,Meigsville,T1,44,township,,,,,
+township,3911552122,Morgan,T1,44,township,,,,,
+township,3911561602,Penn,T1,44,township,,,,,
+township,3911578484,Union,T1,44,township,,,,,
+township,3911586016,Windsor,T1,44,township,,,,,
+township,3911587066,York,T1,44,township,,,,,
+township,3911705508,Bennington,T1,44,township,,,,,
+township,3911711248,Canaan,T1,44,township,,,,,
+township,3911712098,Cardington,T1,44,township,,,,,
+township,3911714030,Chester,T1,44,township,,,,,
+township,3911718294,Congress,T1,44,township,,,,,
+township,3911728378,Franklin,T1,44,township,,,,,
+township,3911730128,Gilead,T1,44,township,,,,,
+township,3911733600,Harmony,T1,44,township,,,,,
+township,3911743680,Lincoln,T1,44,township,,,,,
+township,3911756224,North Bloomfield,T1,44,township,,,,,
+township,3911761980,Perry,T1,44,township,,,,,
+township,3911762260,Peru,T1,44,township,,,,,
+township,3911773061,South Bloomfield,T1,44,township,,,,,
+township,3911777602,Troy,T1,44,township,,,,,
+township,3911781508,Washington,T1,44,township,,,,,
+township,3911783454,Westfield,T1,44,township,,,,,
+township,3911900310,Adams,T1,44,township,,,,,
+township,3911907398,Blue Rock,T1,44,township,,,,,
+township,3911909757,Brush Creek,T1,44,township,,,,,
+township,3911912406,Cass,T1,44,township,,,,,
+township,3911915532,Clay,T1,44,township,,,,,
+township,3911926502,Falls,T1,44,township,,,,,
+township,3911933936,Harrison,T1,44,township,,,,,
+township,3911935238,Highland,T1,44,township,,,,,
+township,3911936372,Hopewell,T1,44,township,,,,,
+township,3911937926,Jackson,T1,44,township,,,,,
+township,3911938752,Jefferson,T1,44,township,,,,,
+township,3911943470,Licking,T1,44,township,,,,,
+township,3911946536,Madison,T1,44,township,,,,,
+township,3911948916,Meigs,T1,44,township,,,,,
+township,3911951506,Monroe,T1,44,township,,,,,
+township,3911953438,Muskingum,T1,44,township,,,,,
+township,3911955608,Newton,T1,44,township,,,,,
+township,3911961994,Perry,T1,44,township,,,,,
+township,3911966600,Rich Hill,T1,44,township,,,,,
+township,3911969932,Salem,T1,44,township,,,,,
+township,3911970170,Salt Creek,T1,44,township,,,,,
+township,3911974125,Springfield,T1,44,township,,,,,
+township,3911978498,Union,T1,44,township,,,,,
+township,3911981522,Washington,T1,44,township,,,,,
+township,3911982236,Wayne,T1,44,township,,,,,
+township,3912104682,Beaver,T1,44,township,,,,,
+township,3912109162,Brookfield,T1,44,township,,,,,
+township,3912110142,Buffalo,T1,44,township,,,,,
+township,3912112994,Center,T1,44,township,,,,,
+township,3912124878,Elk,T1,44,township,,,,,
+township,3912125438,Enoch,T1,44,township,,,,,
+township,3912137940,Jackson,T1,44,township,,,,,
+township,3912138766,Jefferson,T1,44,township,,,,,
+township,3912147810,Marion,T1,44,township,,,,,
+township,3912156028,Noble,T1,44,township,,,,,
+township,3912158310,Olive,T1,44,township,,,,,
+township,3912171352,Seneca,T1,44,township,,,,,
+township,3912171826,Sharon,T1,44,township,,,,,
+township,3912174728,Stock,T1,44,township,,,,,
+township,3912182250,Wayne,T1,44,township,,,,,
+township,3912301322,Allen,T1,44,township,,,,,
+township,3912304304,Bay,T1,44,township,,,,,
+township,3912305620,Benton,T1,44,township,,,,,
+township,3912312266,Carroll,T1,44,township,,,,,
+township,3912312588,Catawba Island,T1,44,township,,,,,
+township,3912315546,Clay,T1,44,township,,,,,
+township,3912320058,Danbury,T1,44,township,,,,,
+township,3912325578,Erie,T1,44,township,,,,,
+township,3912333726,Harris,T1,44,township,,,,,
+township,3912364080,Portage,T1,44,township,,,,,
+township,3912365046,Put-in-Bay,T1,44,township,,,,,
+township,3912369946,Salem,T1,44,township,,,,,
+township,3912503002,Auglaize,T1,44,township,,,,,
+township,3912505634,Benton,T1,44,township,,,,,
+township,3912507370,Blue Creek,T1,44,township,,,,,
+township,3912509512,Brown,T1,44,township,,,,,
+township,3912512308,Carryall,T1,44,township,,,,,
+township,3912519176,Crane,T1,44,township,,,,,
+township,3912525298,Emerald,T1,44,township,,,,,
+township,3912533950,Harrison,T1,44,township,,,,,
+township,3912537954,Jackson,T1,44,township,,,,,
+township,3912542000,Latty,T1,44,township,,,,,
+township,3912561266,Paulding,T1,44,township,,,,,
+township,3912581536,Washington,T1,44,township,,,,,
+township,3912704584,Bearfield,T1,44,township,,,,,
+township,3912715658,Clayton,T1,44,township,,,,,
+township,3912716350,Coal,T1,44,township,,,,,
+township,3912733964,Harrison,T1,44,township,,,,,
+township,3912736386,Hopewell,T1,44,township,,,,,
+township,3912737968,Jackson,T1,44,township,,,,,
+township,3912746550,Madison,T1,44,township,,,,,
+township,3912751198,Monday Creek,T1,44,township,,,,,
+township,3912751520,Monroe,T1,44,township,,,,,
+township,3912762680,Pike,T1,44,township,,,,,
+township,3912763366,Pleasant,T1,44,township,,,,,
+township,3912765760,Reading,T1,44,township,,,,,
+township,3912770226,Salt Lick,T1,44,township,,,,,
+township,3912776659,Thorn,T1,44,township,,,,,
+township,3912915077,Circleville,T1,44,township,,,,,
+township,3912920156,Darby,T1,44,township,,,,,
+township,3912921168,Deercreek,T1,44,township,,,,,
+township,3912933978,Harrison,T1,44,township,,,,,
+township,3912937982,Jackson,T1,44,township,,,,,
+township,3912946564,Madison,T1,44,township,,,,,
+township,3912951534,Monroe,T1,44,township,,,,,
+township,3912953256,Muhlenberg,T1,44,township,,,,,
+township,3912962008,Perry,T1,44,township,,,,,
+township,3912962484,Pickaway,T1,44,township,,,,,
+township,3912970184,Saltcreek,T1,44,township,,,,,
+township,3912970870,Scioto,T1,44,township,,,,,
+township,3912980598,Walnut,T1,44,township,,,,,
+township,3912981550,Washington,T1,44,township,,,,,
+township,3912982264,Wayne,T1,44,township,,,,,
+township,3913104710,Beaver,T1,44,township,,,,,
+township,3913105648,Benton,T1,44,township,,,,,
+township,3913111122,Camp Creek,T1,44,township,,,,,
+township,3913137996,Jackson,T1,44,township,,,,,
+township,3913147824,Marion,T1,44,township,,,,,
+township,3913150078,Mifflin,T1,44,township,,,,,
+township,3913155622,Newton,T1,44,township,,,,,
+township,3913161392,Pebble,T1,44,township,,,,,
+township,3913161434,Pee Pee,T1,44,township,,,,,
+township,3913162022,Perry,T1,44,township,,,,,
+township,3913170884,Scioto,T1,44,township,,,,,
+township,3913171171,Seal,T1,44,township,,,,,
+township,3913175637,Sunfish,T1,44,township,,,,,
+township,3913178512,Union,T1,44,township,,,,,
+township,3913302862,Atwater,T1,44,township,,,,,
+township,3913308840,Brimfield,T1,44,township,,,,,
+township,3913313610,Charlestown,T1,44,township,,,,,
+township,3913321210,Deerfield,T1,44,township,,,,,
+township,3913324584,Edinburg,T1,44,township,,,,,
+township,3913328392,Franklin,T1,44,township,,,,,
+township,3913328742,Freedom,T1,44,township,,,,,
+township,3913335672,Hiram,T1,44,township,,,,,
+township,3913347194,Mantua,T1,44,township,,,,,
+township,3913353858,Nelson,T1,44,township,,,,,
+township,3913359668,Palmyra,T1,44,township,,,,,
+township,3913359822,Paris,T1,44,township,,,,,
+township,3913365452,Randolph,T1,44,township,,,,,
+township,3913365606,Ravenna,T1,44,township,,,,,
+township,3913368392,Rootstown,T1,44,township,,,,,
+township,3913371731,Shalersville,T1,44,township,,,,,
+township,3913375189,Suffield,T1,44,township,,,,,
+township,3913385960,Windham,T1,44,township,,,,,
+township,3913522106,Dixon,T1,44,township,,,,,
+township,3913529484,Gasper,T1,44,township,,,,,
+township,3913531486,Gratis,T1,44,township,,,,,
+township,3913533992,Harrison,T1,44,township,,,,,
+township,3913537590,Israel,T1,44,township,,,,,
+township,3913538010,Jackson,T1,44,township,,,,,
+township,3913538780,Jefferson,T1,44,township,,,,,
+township,3913541846,Lanier,T1,44,township,,,,,
+township,3913551548,Monroe,T1,44,township,,,,,
+township,3913572964,Somers,T1,44,township,,,,,
+township,3913577994,Twin,T1,44,township,,,,,
+township,3913581564,Washington,T1,44,township,,,,,
+township,3913706880,Blanchard,T1,44,township,,,,,
+township,3913732228,Greensburg,T1,44,township,,,,,
+township,3913738024,Jackson,T1,44,township,,,,,
+township,3913738976,Jennings,T1,44,township,,,,,
+township,3913743288,Liberty,T1,44,township,,,,,
+township,3913751562,Monroe,T1,44,township,,,,,
+township,3913751660,Monterey,T1,44,township,,,,,
+township,3913758996,Ottawa,T1,44,township,,,,,
+township,3913759612,Palmer,T1,44,township,,,,,
+township,3913762036,Perry,T1,44,township,,,,,
+township,3913763380,Pleasant,T1,44,township,,,,,
+township,3913767174,Riley,T1,44,township,,,,,
+township,3913775206,Sugar Creek,T1,44,township,,,,,
+township,3913778526,Union,T1,44,township,,,,,
+township,3913779450,Van Buren,T1,44,township,,,,,
+township,3913907230,Bloominggrove,T1,44,township,,,,,
+township,3913910646,Butler,T1,44,township,,,,,
+township,3913912420,Cass,T1,44,township,,,,,
+township,3913928406,Franklin,T1,44,township,,,,,
+township,3913938038,Jackson,T1,44,township,,,,,
+township,3913938794,Jefferson,T1,44,township,,,,,
+township,3913946578,Madison,T1,44,township,,,,,
+township,3913950092,Mifflin,T1,44,township,,,,,
+township,3913951576,Monroe,T1,44,township,,,,,
+township,3913962050,Perry,T1,44,township,,,,,
+township,3913963814,Plymouth,T1,44,township,,,,,
+township,3913970394,Sandusky,T1,44,township,,,,,
+township,3913971830,Sharon,T1,44,township,,,,,
+township,3913974128,Springfield,T1,44,township,,,,,
+township,3913977616,Troy,T1,44,township,,,,,
+township,3913981578,Washington,T1,44,township,,,,,
+township,3913982628,Weller,T1,44,township,,,,,
+township,3913986618,Worthington,T1,44,township,,,,,
+township,3914110016,Buckskin,T1,44,township,,,,,
+township,3914116630,Colerain,T1,44,township,,,,,
+township,3914118238,Concord,T1,44,township,,,,,
+township,3914121224,Deerfield,T1,44,township,,,,,
+township,3914128420,Franklin,T1,44,township,,,,,
+township,3914131822,Green,T1,44,township,,,,,
+township,3914134006,Harrison,T1,44,township,,,,,
+township,3914136890,Huntington,T1,44,township,,,,,
+township,3914138808,Jefferson,T1,44,township,,,,,
+township,3914143302,Liberty,T1,44,township,,,,,
+township,3914159542,Paint,T1,44,township,,,,,
+township,3914161308,Paxton,T1,44,township,,,,,
+township,3914170898,Scioto,T1,44,township,,,,,
+township,3914174129,Springfield,T1,44,township,,,,,
+township,3914178008,Twin,T1,44,township,,,,,
+township,3914178540,Union,T1,44,township,,,,,
+township,3914303730,Ballville,T1,44,township,,,,,
+township,3914331990,Green Creek,T1,44,township,,,,,
+township,3914338052,Jackson,T1,44,township,,,,,
+township,3914346592,Madison,T1,44,township,,,,,
+township,3914366460,Rice,T1,44,township,,,,,
+township,3914367188,Riley,T1,44,township,,,,,
+township,3914370408,Sandusky,T1,44,township,,,,,
+township,3914371087,Scott,T1,44,township,,,,,
+township,3914377162,Townsend,T1,44,township,,,,,
+township,3914381592,Washington,T1,44,township,,,,,
+township,3914386506,Woodville,T1,44,township,,,,,
+township,3914387080,York,T1,44,township,,,,,
+township,3914506992,Bloom,T1,44,township,,,,,
+township,3914509764,Brush Creek,T1,44,township,,,,,
+township,3914515560,Clay,T1,44,township,,,,,
+township,3914531836,Green,T1,44,township,,,,,
+township,3914534020,Harrison,T1,44,township,,,,,
+township,3914538815,Jefferson,T1,44,township,,,,,
+township,3914546606,Madison,T1,44,township,,,,,
+township,3914552150,Morgan,T1,44,township,,,,,
+township,3914555902,Nile,T1,44,township,,,,,
+township,3914564206,Porter,T1,44,township,,,,,
+township,3914565522,Rarden,T1,44,township,,,,,
+township,3914569092,Rush,T1,44,township,,,,,
+township,3914578554,Union,T1,44,township,,,,,
+township,3914579170,Valley,T1,44,township,,,,,
+township,3914579828,Vernon,T1,44,township,,,,,
+township,3914581606,Washington,T1,44,township,,,,,
+township,3914700324,Adams,T1,44,township,,,,,
+township,3914706432,Big Spring,T1,44,township,,,,,
+township,3914707006,Bloom,T1,44,township,,,,,
+township,3914716154,Clinton,T1,44,township,,,,,
+township,3914724346,Eden,T1,44,township,,,,,
+township,3914736400,Hopewell,T1,44,township,,,,,
+township,3914738066,Jackson,T1,44,township,,,,,
+township,3914743316,Liberty,T1,44,township,,,,,
+township,3914745052,Loudon,T1,44,township,,,,,
+township,3914763394,Pleasant,T1,44,township,,,,,
+township,3914765942,Reed,T1,44,township,,,,,
+township,3914771024,Scipio,T1,44,township,,,,,
+township,3914771355,Seneca,T1,44,township,,,,,
+township,3914776632,Thompson,T1,44,township,,,,,
+township,3914779674,Venice,T1,44,township,,,,,
+township,3914916168,Clinton,T1,44,township,,,,,
+township,3914919834,Cynthian,T1,44,township,,,,,
+township,3914922050,Dinsmore,T1,44,township,,,,,
+township,3914928434,Franklin,T1,44,township,,,,,
+township,3914931850,Green,T1,44,township,,,,,
+township,3914938080,Jackson,T1,44,township,,,,,
+township,3914944884,Loramie,T1,44,township,,,,,
+township,3914946172,McLean,T1,44,township,,,,,
+township,3914958660,Orange,T1,44,township,,,,,
+township,3914962064,Perry,T1,44,township,,,,,
+township,3914969960,Salem,T1,44,township,,,,,
+township,3914977854,Turtle Creek,T1,44,township,,,,,
+township,3914979464,Van Buren,T1,44,township,,,,,
+township,3914981620,Washington,T1,44,township,,,,,
+township,3915106180,Bethlehem,T1,44,township,,,,,
+township,3915112014,Canton,T1,44,township,,,,,
+township,3915138094,Jackson,T1,44,township,,,,,
+township,3915141314,Lake,T1,44,township,,,,,
+township,3915142168,Lawrence,T1,44,township,,,,,
+township,3915143022,Lexington,T1,44,township,,,,,
+township,3915147936,Marlboro,T1,44,township,,,,,
+township,3915155944,Nimishillen,T1,44,township,,,,,
+township,3915158926,Osnaburg,T1,44,township,,,,,
+township,3915159850,Paris,T1,44,township,,,,,
+township,3915162078,Perry,T1,44,township,,,,,
+township,3915162694,Pike,T1,44,township,,,,,
+township,3915162988,Plain,T1,44,township,,,,,
+township,3915170436,Sandy,T1,44,township,,,,,
+township,3915175208,Sugarcreek,T1,44,township,,,,,
+township,3915177910,Tuscarawas,T1,44,township,,,,,
+township,3915181634,Washington,T1,44,township,,,,,
+township,3915304248,Bath,T1,44,township,,,,,
+township,3915307776,Boston,T1,44,township,,,,,
+township,3915318658,Copley,T1,44,township,,,,,
+township,3915319036,Coventry,T1,44,township,,,,,
+township,3915356490,Northfield Center,T1,44,township,,,,,
+township,3915366544,Richfield,T1,44,township,,,,,
+township,3915369428,Sagamore Hills,T1,44,township,,,,,
+township,3915374130,Springfield,T1,44,township,,,,,
+township,3915378064,Twinsburg,T1,44,township,,,,,
+township,3915504444,Bazetta,T1,44,township,,,,,
+township,3915507160,Bloomfield,T1,44,township,,,,,
+township,3915508056,Braceville,T1,44,township,,,,,
+township,3915508938,Bristol,T1,44,township,,,,,
+township,3915509190,Brookfield,T1,44,township,,,,,
+township,3915513470,Champion,T1,44,township,,,,,
+township,3915526684,Farmington,T1,44,township,,,,,
+township,3915528098,Fowler,T1,44,township,,,,,
+township,3915532046,Greene,T1,44,township,,,,,
+township,3915532732,Gustavus,T1,44,township,,,,,
+township,3915534230,Hartford,T1,44,township,,,,,
+township,3915536554,Howland,T1,44,township,,,,,
+township,3915536596,Hubbard,T1,44,township,,,,,
+township,3915539298,Johnston,T1,44,township,,,,,
+township,3915540502,Kinsman,T1,44,township,,,,,
+township,3915543344,Liberty,T1,44,township,,,,,
+township,3915548678,Mecca,T1,44,township,,,,,
+township,3915549210,Mesopotamia,T1,44,township,,,,,
+township,3915555636,Newton,T1,44,township,,,,,
+township,3915573397,Southington,T1,44,township,,,,,
+township,3915579856,Vernon,T1,44,township,,,,,
+township,3915580052,Vienna,T1,44,township,,,,,
+township,3915580906,Warren,T1,44,township,,,,,
+township,3915582446,Weathersfield,T1,44,township,,,,,
+township,3915702918,Auburn,T1,44,township,,,,,
+township,3915709988,Bucks,T1,44,township,,,,,
+township,3915715574,Clay,T1,44,township,,,,,
+township,3915722470,Dover,T1,44,township,,,,,
+township,3915726082,Fairfield,T1,44,township,,,,,
+township,3915728462,Franklin,T1,44,township,,,,,
+township,3915731066,Goshen,T1,44,township,,,,,
+township,3915738836,Jefferson,T1,44,township,,,,,
+township,3915742182,Lawrence,T1,44,township,,,,,
+township,3915750232,Mill,T1,44,township,,,,,
+township,3915759304,Oxford,T1,44,township,,,,,
+township,3915762092,Perry,T1,44,township,,,,,
+township,3915769106,Rush,T1,44,township,,,,,
+township,3915769974,Salem,T1,44,township,,,,,
+township,3915770443,Sandy,T1,44,township,,,,,
+township,3915775217,Sugar Creek,T1,44,township,,,,,
+township,3915778568,Union,T1,44,township,,,,,
+township,3915780920,Warren,T1,44,township,,,,,
+township,3915781060,Warwick,T1,44,township,,,,,
+township,3915781648,Washington,T1,44,township,,,,,
+township,3915782292,Wayne,T1,44,township,,,,,
+township,3915787094,York,T1,44,township,,,,,
+township,3915901336,Allen,T1,44,township,,,,,
+township,3915915112,Claibourne,T1,44,township,,,,,
+township,3915920170,Darby,T1,44,township,,,,,
+township,3915922484,Dover,T1,44,township,,,,,
+township,3915938108,Jackson,T1,44,township,,,,,
+township,3915939046,Jerome,T1,44,township,,,,,
+township,3915942490,Leesburg,T1,44,township,,,,,
+township,3915943358,Liberty,T1,44,township,,,,,
+township,3915950288,Millcreek,T1,44,township,,,,,
+township,3915959864,Paris,T1,44,township,,,,,
+township,3915976194,Taylor,T1,44,township,,,,,
+township,3915978582,Union,T1,44,township,,,,,
+township,3915981242,Washington,T5,44,township,,,,,
+township,3915981662,Washington,T1,44,township,,,,,
+township,3915987122,York,T1,44,township,,,,,
+township,3916134034,Harrison,T1,44,township,,,,,
+township,3916135756,Hoaglin,T1,44,township,,,,,
+township,3916138122,Jackson,T1,44,township,,,,,
+township,3916138990,Jennings,T1,44,township,,,,,
+township,3916143372,Liberty,T1,44,township,,,,,
+township,3916163408,Pleasant,T1,44,township,,,,,
+township,3916166978,Ridge,T1,44,township,,,,,
+township,3916177756,Tully,T1,44,township,,,,,
+township,3916178596,Union,T1,44,township,,,,,
+township,3916181676,Washington,T1,44,township,,,,,
+township,3916185750,Willshire,T1,44,township,,,,,
+township,3916187136,York,T1,44,township,,,,,
+township,3916309526,Brown,T1,44,township,,,,,
+township,3916316210,Clinton,T1,44,township,,,,,
+township,3916323100,Eagle,T1,44,township,,,,,
+township,3916324892,Elk,T1,44,township,,,,,
+township,3916334048,Harrison,T1,44,township,,,,,
+township,3916338136,Jackson,T1,44,township,,,,,
+township,3916340880,Knox,T1,44,township,,,,,
+township,3916346620,Madison,T1,44,township,,,,,
+township,3916366768,Richland,T1,44,township,,,,,
+township,3916375854,Swan,T1,44,township,,,,,
+township,3916380192,Vinton,T1,44,township,,,,,
+township,3916385204,Wilkesville,T1,44,township,,,,,
+township,3916515700,Clear Creek,T1,44,township,,,,,
+township,3916521238,Deerfield,T1,44,township,,,,,
+township,3916528490,Franklin,T1,44,township,,,,,
+township,3916533068,Hamilton,T1,44,township,,,,,
+township,3916533474,Harlan,T1,44,township,,,,,
+township,3916548216,Massie,T1,44,township,,,,,
+township,3916569988,Salem,T1,44,township,,,,,
+township,3916577868,Turtlecreek,T1,44,township,,,,,
+township,3916578610,Union,T1,44,township,,,,,
+township,3916581690,Washington,T1,44,township,,,,,
+township,3916582306,Wayne,T1,44,township,,,,,
+township,3916700338,Adams,T1,44,township,,,,,
+township,3916703072,Aurelius,T1,44,township,,,,,
+township,3916703898,Barlow,T1,44,township,,,,,
+township,3916705438,Belpre,T1,44,township,,,,,
+township,3916721098,Decatur,T1,44,township,,,,,
+township,3916722918,Dunham,T1,44,township,,,,,
+township,3916726096,Fairfield,T1,44,township,,,,,
+township,3916726810,Fearing,T1,44,township,,,,,
+township,3916731276,Grandview,T1,44,township,,,,,
+township,3916737268,Independence,T1,44,township,,,,,
+township,3916742196,Lawrence,T1,44,township,,,,,
+township,3916743386,Liberty,T1,44,township,,,,,
+township,3916745360,Ludlow,T1,44,township,,,,,
+township,3916747642,Marietta,T1,44,township,,,,,
+township,3916753452,Muskingum,T1,44,township,,,,,
+township,3916755356,Newport,T1,44,township,,,,,
+township,3916759626,Palmer,T1,44,township,,,,,
+township,3916770002,Salem,T1,44,township,,,,,
+township,3916780934,Warren,T1,44,township,,,,,
+township,3916781774,Waterford,T1,44,township,,,,,
+township,3916781844,Watertown,T1,44,township,,,,,
+township,3916782838,Wesley,T1,44,township,,,,,
+township,3916904276,Baughman,T1,44,township,,,,,
+township,3916911276,Canaan,T1,44,township,,,,,
+township,3916914044,Chester,T1,44,township,,,,,
+township,3916914240,Chippewa,T1,44,township,,,,,
+township,3916916224,Clinton,T1,44,township,,,,,
+township,3916918322,Congress,T1,44,township,,,,,
+township,3916924136,East Union,T1,44,township,,,,,
+township,3916928504,Franklin,T1,44,township,,,,,
+township,3916931878,Green,T1,44,township,,,,,
+township,3916950666,Milton,T1,44,township,,,,,
+township,3916959556,Paint,T1,44,township,,,,,
+township,3916962995,Plain,T1,44,township,,,,,
+township,3916970198,Salt Creek,T1,44,township,,,,,
+township,3916975231,Sugar Creek,T1,44,township,,,,,
+township,3916982320,Wayne,T1,44,township,,,,,
+township,3916986562,Wooster,T1,44,township,,,,,
+township,3917108140,Brady,T1,44,township,,,,,
+township,3917108630,Bridgewater,T1,44,township,,,,,
+township,3917113008,Center,T1,44,township,,,,,
+township,3917127530,Florence,T1,44,township,,,,,
+township,3917138864,Jefferson,T1,44,township,,,,,
+township,3917146634,Madison,T1,44,township,,,,,
+township,3917150302,Mill Creek,T1,44,township,,,,,
+township,3917157162,Northwest,T1,44,township,,,,,
+township,3917164920,Pulaski,T1,44,township,,,,,
+township,3917169638,St. Joseph,T1,44,township,,,,,
+township,3917174131,Springfield,T1,44,township,,,,,
+township,3917175819,Superior,T1,44,township,,,,,
+township,3917307020,Bloom,T1,44,township,,,,,
+township,3917313015,Center,T1,44,township,,,,,
+township,3917328756,Freedom,T1,44,township,,,,,
+township,3917331220,Grand Rapids,T1,44,township,,,,,
+township,3917334986,Henry,T1,44,township,,,,,
+township,3917338164,Jackson,T1,44,township,,,,,
+township,3917341328,Lake,T1,44,township,,,,,
+township,3917343400,Liberty,T1,44,township,,,,,
+township,3917349812,Middleton,T1,44,township,,,,,
+township,3917350680,Milton,T1,44,township,,,,,
+township,3917351744,Montgomery,T1,44,township,,,,,
+township,3917362106,Perry,T1,44,township,,,,,
+township,3917362162,Perrysburg,T1,44,township,,,,,
+township,3917363002,Plain,T1,44,township,,,,,
+township,3917364122,Portage,T1,44,township,,,,,
+township,3917377630,Troy,T1,44,township,,,,,
+township,3917381704,Washington,T1,44,township,,,,,
+township,3917382544,Webster,T1,44,township,,,,,
+township,3917383986,Weston,T1,44,township,,,,,
+township,3917502190,Antrim,T1,44,township,,,,,
+township,3917519190,Crane,T1,44,township,,,,,
+township,3917519246,Crawford,T1,44,township,,,,,
+township,3917524360,Eden,T1,44,township,,,,,
+township,3917538178,Jackson,T1,44,township,,,,,
+township,3917548006,Marseilles,T1,44,township,,,,,
+township,3917550106,Mifflin,T1,44,township,,,,,
+township,3917562904,Pitt,T1,44,township,,,,,
+township,3917566782,Richland,T1,44,township,,,,,
+township,3917566992,Ridge,T1,44,township,,,,,
+township,3917570016,Salem,T1,44,township,,,,,
+township,3917575987,Sycamore,T1,44,township,,,,,
+township,3917578141,Tymochtee,T1,44,township,,,,,
